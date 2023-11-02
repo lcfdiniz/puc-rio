@@ -1,0 +1,1568 @@
+Tipo_de_Moradia,Bairro,Area,Quartos,Banheiros,Vagas,Preco,Condominio,Aceita_Animais,Area_de_Servico,Churrasqueira,Elevador,Varanda,Piscina,Condominio_Fechado,Espaco_Gourmet,Portao_Eletronico,Quintal_ou_Jardim
+Apartamento,Santa Efigênia,150.0,2.0,3.0,1.0,195000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Estrela Sul,70.0,2.0,2.0,1.0,250000,270.0,True,False,True,True,False,True,True,False,False,False
+Casa,Fontesville,217.0,3.0,3.0,1.0,420000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,76.0,2.0,2.0,1.0,300000,200.0,True,True,False,True,True,True,False,True,False,False
+Apartamento,Paineiras,63.0,2.0,1.0,,148000,152.0,False,False,False,False,False,False,False,False,True,False
+Casa,Filgueiras,323.0,3.0,2.0,3.0,350000,,False,False,True,False,False,False,False,True,False,True
+Apartamento,Bom Pastor,90.0,3.0,2.0,1.0,280000,340.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,74.0,2.0,1.0,1.0,200000,122.0,False,False,False,False,False,False,False,False,False,False
+Casa,Francisco Bernardino,290.0,3.0,4.0,2.0,650000,,False,False,False,False,False,False,False,False,True,False
+Apartamento,Manoel Honório,78.0,3.0,2.0,,280000,200.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,86.0,2.0,2.0,2.0,400000,395.0,False,False,False,True,False,False,False,False,True,False
+Apartamento,Paineiras,40.0,1.0,1.0,2.0,185000,260.0,False,False,False,False,False,False,True,False,False,False
+Casa,Jardim do Sol,500.0,3.0,1.0,,265000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bonfim,67.0,2.0,1.0,1.0,170000,190.0,False,True,False,True,True,False,False,False,False,False
+Apartamento,Santa Maria,83.0,2.0,2.0,1.0,230000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Poço Rico,102.0,3.0,3.0,2.0,460000,270.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Paineiras,63.0,2.0,1.0,,148000,152.0,False,False,False,False,False,False,False,False,False,False
+Casa,Terras Altas,183.0,3.0,2.0,2.0,410000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Linhares,70.0,2.0,1.0,,165000,,True,False,False,False,False,False,True,False,True,False
+Apartamento,Teixeiras,55.0,2.0,1.0,,240536,,True,False,False,True,True,False,False,False,True,False
+Apartamento,Bonfim,67.0,2.0,1.0,1.0,185000,250.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Jardim do Sol,57.0,2.0,1.0,1.0,190000,330.0,False,False,False,False,False,False,False,False,False,False
+Casa,Jóquei Clube,120.0,2.0,3.0,1.0,339000,,False,False,False,False,True,False,False,False,True,True
+Apartamento,Santa Luzia,92.0,3.0,2.0,1.0,250000,354.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,108.0,3.0,2.0,1.0,449000,465.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Granbery,69.0,3.0,2.0,2.0,505145,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Santos Anjos,71.0,2.0,1.0,,159000,20.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,140.0,3.0,2.0,2.0,379000,,True,False,False,False,False,False,True,False,True,False
+Apartamento,Democrata,65.0,2.0,2.0,1.0,265000,300.0,False,False,True,True,False,True,True,False,False,False
+Casa,Quintas das Avenidas,380.0,3.0,5.0,4.0,1090000,,True,True,True,False,False,True,False,False,False,False
+Apartamento,Boa Vista,137.0,3.0,2.0,2.0,870000,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Passos,105.0,2.0,2.0,1.0,350000,580.0,False,False,False,False,False,False,False,False,False,False
+Casa,Francisco Bernardino,200.0,3.0,2.0,2.0,450000,,False,False,True,False,False,False,False,True,False,True
+Apartamento,São Pedro,76.0,2.0,2.0,1.0,439900,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Santa Luzia,150.0,3.0,3.0,2.0,359000,372.0,True,False,True,False,False,True,True,False,False,True
+Apartamento,Centro,471.0,1.0,1.0,,160000,380.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Manoel Honório,80.0,2.0,1.0,1.0,280000,240.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Mariano Procópio,60.0,2.0,1.0,,150000,,False,True,False,False,False,False,False,False,False,False
+Apartamento,Vivendas da Serra,110.0,2.0,1.0,1.0,265000,,True,False,False,False,True,False,False,True,True,False
+Casa,São Bernardo,240.0,3.0,2.0,2.0,300000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,171.0,3.0,2.0,2.0,550000,,True,False,True,True,False,False,True,False,False,False
+Apartamento,Santa Terezinha,60.0,2.0,1.0,1.0,255000,157.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Vivendas da Serra,68.0,2.0,1.0,1.0,370000,230.0,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim L Ermitage,210.0,3.0,4.0,4.0,950000,120.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,130.0,3.0,1.0,3.0,550000,270.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,82.0,2.0,1.0,1.0,250000,190.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cidade do Sol,98.0,3.0,1.0,1.0,200000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Mundo Novo,63.0,2.0,1.0,,179000,140.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,165.0,3.0,3.0,1.0,650000,860.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,72.0,2.0,2.0,1.0,260000,219.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,50.0,2.0,1.0,1.0,220000,230.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Spina Ville II,102.0,2.0,1.0,1.0,160000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,70.0,3.0,1.0,1.0,210000,100.0,True,True,False,False,False,False,True,False,False,True
+Apartamento,São Mateus,77.0,3.0,1.0,2.0,290000,278.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,100.0,3.0,2.0,1.0,309000,220.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Jardim de Alah,60.0,2.0,1.0,,130000,150.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Nova Era,100.0,2.0,2.0,,240000,90.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,158.0,3.0,2.0,1.0,400000,290.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Sagrado Coração de Jesus,48.0,2.0,1.0,,148000,,True,False,False,False,False,False,True,False,True,False
+Apartamento,Centro,158.0,3.0,3.0,,279000,250.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,90.0,3.0,2.0,1.0,280000,336.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Progresso,50.0,1.0,1.0,,105000,136.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Mariano Procópio,102.0,3.0,3.0,1.0,330000,440.0,False,False,False,True,False,False,False,False,True,False
+Apartamento,Democrata,60.0,2.0,2.0,1.0,265000,330.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Centro,63.0,1.0,1.0,1.0,199000,350.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jóquei Clube,50.0,2.0,1.0,1.0,260000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Morro da Glória,81.0,2.0,2.0,,228000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,89.0,2.0,3.0,1.0,280000,675.0,True,True,False,True,True,False,False,False,False,False
+Casa,Encosta do Sol,180.0,5.0,3.0,2.0,475000,,False,False,False,False,False,False,False,False,False,False
+Casa,Nova Era,60.0,3.0,1.0,1.0,170000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim Santa Isabel,110.0,3.0,2.0,2.0,419000,,False,False,False,False,True,False,False,False,True,True
+Casa,Parque Independencia III,85.0,2.0,2.0,1.0,280000,,False,False,False,False,True,False,False,True,True,True
+Casa,Francisco Bernardino,45.0,3.0,3.0,2.0,450000,,False,False,False,False,True,False,False,True,True,True
+Casa,Fontesville,102.0,2.0,2.0,2.0,350000,,False,True,False,False,False,False,False,False,True,True
+Casa,São Pedro,180.0,3.0,3.0,,650000,,False,True,False,False,True,False,False,True,True,True
+Casa,Marilândia,180.0,3.0,3.0,2.0,685000,,False,False,False,False,True,False,False,False,True,True
+Casa,Industrial,140.0,2.0,2.0,10.0,330000,,False,False,False,False,False,False,False,False,False,False
+Casa,Democrata,161.0,3.0,3.0,1.0,280000,,False,False,False,False,False,False,False,False,False,False
+Casa,Vivendas da Serra,110.0,3.0,2.0,2.0,320000,,False,False,False,False,True,False,False,False,True,False
+Casa,Vivendas da Serra,160.0,3.0,3.0,2.0,490000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,150.0,3.0,4.0,3.0,889000,,False,False,False,False,True,False,False,True,True,False
+Casa,Vivendas da Serra,160.0,3.0,3.0,2.0,490000,,False,True,False,False,False,False,False,False,True,True
+Casa,Bandeirantes,90.0,2.0,2.0,,200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,131.0,5.0,3.0,,500000,,True,False,False,False,False,False,False,False,False,False
+Casa,Amazônia,165.0,3.0,3.0,2.0,350000,,True,False,False,False,False,False,False,True,False,True
+Casa,Aeroporto,148.0,3.0,3.0,2.0,630000,,True,False,False,False,True,False,False,True,True,False
+Casa,Salvaterra,140.0,4.0,4.0,2.0,350000,,True,True,False,False,True,False,False,False,False,True
+Casa,Barreira do Triunfo,140.0,3.0,3.0,3.0,450000,,True,False,True,False,False,True,True,True,False,False
+Casa,São Pedro,290.0,3.0,3.0,2.0,950000,,False,False,False,False,True,False,False,False,False,False
+Casa,Fontesville,90.0,2.0,2.0,2.0,350000,,False,False,False,False,False,False,False,False,False,False
+Casa,Fontesville,140.0,3.0,2.0,3.0,475000,,True,False,False,False,False,False,False,False,False,False
+Casa,Democrata,401.0,3.0,3.0,3.0,670000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,10.0,3.0,4.0,3.0,369000,,False,False,False,False,False,False,False,False,False,False
+Casa,Fontesville,140.0,3.0,2.0,3.0,474000,,True,False,False,False,False,False,False,False,False,False
+Casa,Borboleta,440.0,2.0,1.0,,79338,,False,False,False,False,False,False,False,False,False,False
+Casa,São Bernardo,420.0,4.0,3.0,1.0,650000,,False,False,False,False,False,False,False,False,True,False
+Casa,Santos Dumont,160.0,3.0,2.0,3.0,230000,,True,True,False,False,True,False,False,False,False,True
+Casa,Santa Efigênia,150.0,3.0,3.0,1.0,195000,,True,True,False,False,False,False,False,True,False,False
+Casa,São Bernardo,420.0,4.0,3.0,1.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Maria,300.0,4.0,5.0,4.0,595000,,False,True,False,False,True,False,False,False,False,True
+Casa,Marilândia,148.0,3.0,3.0,1.0,685000,,False,False,False,False,False,False,False,False,False,False
+Casa,Recanto da Mata,160.0,3.0,2.0,2.0,380000,,True,False,False,False,True,False,False,True,False,True
+Casa,Santa Efigênia,150.0,3.0,3.0,1.0,195000,,False,False,False,False,False,False,False,False,False,False
+Casa,Serra D água,60.0,2.0,1.0,1.0,212900,160.0,True,False,False,False,True,False,True,True,False,False
+Apartamento,Granbery,51.0,1.0,1.0,1.0,285000,160.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Granbery,60.0,2.0,2.0,1.0,382740,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Granbery,65.0,2.0,1.0,,240000,1.0,False,False,False,True,True,False,False,False,True,False
+Apartamento,Granbery,108.0,2.0,1.0,1.0,299000,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,79.0,2.0,1.0,1.0,505000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,75.0,2.0,2.0,2.0,310000,452.0,False,True,False,True,True,False,False,False,False,False
+Apartamento,Granbery,187.0,3.0,3.0,2.0,699000,727.0,True,False,False,False,False,True,False,False,False,True
+Apartamento,Granbery,93.0,3.0,3.0,2.0,510000,,True,True,False,True,True,False,False,False,False,False
+Apartamento,Granbery,183.0,3.0,2.0,3.0,800000,450.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,74.0,3.0,2.0,2.0,366000,,False,False,True,True,False,True,True,False,False,False
+Apartamento,Granbery,75.0,2.0,2.0,2.0,310000,452.0,False,False,False,True,True,False,False,True,True,False
+Apartamento,Granbery,102.0,2.0,3.0,2.0,319000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,180.0,4.0,3.0,2.0,930000,380.0,True,True,False,True,True,False,True,True,False,False
+Apartamento,Granbery,87.0,2.0,1.0,1.0,249900,320.0,True,False,False,False,True,False,False,False,False,True
+Apartamento,Granbery,83.0,2.0,1.0,1.0,379000,230.0,False,False,False,False,False,False,False,False,False,True
+Apartamento,Granbery,60.0,1.0,1.0,,175000,190.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,80.0,3.0,2.0,2.0,530000,,True,False,True,True,False,True,False,False,False,False
+Apartamento,Granbery,67.0,2.0,1.0,,229900,200.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,99.0,2.0,2.0,1.0,379000,475.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Granbery,69.0,3.0,2.0,2.0,445145,,False,False,True,False,True,True,False,True,False,False
+Apartamento,Granbery,183.0,3.0,3.0,3.0,799000,390.0,False,False,True,True,True,False,True,False,False,False
+Apartamento,Granbery,96.0,3.0,3.0,2.0,1049900,501.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Granbery,94.0,2.0,2.0,1.0,260000,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,51.0,2.0,1.0,1.0,499000,,False,False,True,True,False,True,False,True,False,False
+Apartamento,Granbery,75.0,3.0,2.0,2.0,520000,300.0,False,True,True,True,False,False,False,False,False,False
+Apartamento,Granbery,72.0,2.0,1.0,1.0,229000,290.0,True,False,False,True,False,False,True,False,True,False
+Apartamento,Granbery,70.0,2.0,1.0,1.0,269000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,97.0,2.0,2.0,2.0,350000,430.0,True,True,False,True,False,False,True,False,False,False
+Apartamento,Granbery,130.0,3.0,2.0,13.0,680000,1100.0,True,False,False,True,True,False,True,True,False,False
+Apartamento,Granbery,56.0,2.0,1.0,1.0,310000,315.0,False,False,False,True,True,False,False,False,False,False
+Apartamento,Granbery,62.0,2.0,1.0,,199000,260.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,160.0,4.0,6.0,3.0,1500000,600.0,False,False,True,True,True,True,False,False,False,False
+Apartamento,Granbery,108.0,3.0,2.0,1.0,530000,740.0,True,False,False,True,True,False,False,True,False,False
+Apartamento,Granbery,174.0,3.0,3.0,3.0,895000,825.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Granbery,70.0,2.0,1.0,1.0,339000,,True,True,False,True,True,False,False,False,False,False
+Casa,Granbery,590.0,6.0,6.0,4.0,3490000,,True,False,True,False,False,True,False,True,False,False
+Casa,Granbery,178.0,4.0,4.0,1.0,450000,,True,False,False,False,False,False,False,False,False,False
+Casa,Granbery,178.0,4.0,3.0,1.0,450000,,False,False,False,False,False,False,False,False,False,False
+Casa,Granbery,40.0,2.0,1.0,,270000,10.0,True,False,False,False,True,False,False,True,False,False
+Casa,Granbery,112.0,4.0,3.0,4.0,470000,,True,False,True,False,False,False,False,False,False,True
+Casa,Granbery,300.0,4.0,3.0,,450000,,True,True,False,False,False,False,False,False,False,False
+Casa,Granbery,128.0,3.0,3.0,2.0,1380000,,True,True,False,False,False,False,False,False,False,True
+Casa,Granbery,244.0,4.0,3.0,1.0,980000,,True,True,False,False,False,False,False,False,False,True
+Casa,Granbery,200.0,5.0,6.0,2.0,1200000,,True,False,True,False,True,True,False,False,False,False
+Casa,Granbery,312.0,3.0,2.0,1.0,1380000,,False,False,False,False,False,False,False,False,False,True
+Casa,Granbery,247.0,3.0,2.0,4.0,990000,,False,False,False,False,False,False,False,False,False,False
+Casa,Granbery,420.0,9.0,4.0,1.0,1500000,,False,True,False,False,False,False,False,False,False,False
+Casa,São Pedro,150.0,3.0,2.0,2.0,255000,,False,True,True,False,False,False,False,False,False,False
+Casa,São Pedro,116.0,3.0,2.0,3.0,369000,,False,False,True,False,False,True,True,True,False,False
+Casa,Bom Jardim,130.0,2.0,2.0,1.0,279000,1.0,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Efigênia,150.0,3.0,3.0,1.0,195000,,True,False,False,False,False,False,False,False,False,False
+Casa,São Bernardo,240.0,3.0,2.0,2.0,300000,,False,False,False,False,False,False,False,False,False,False
+Casa,Terras Altas,183.0,3.0,4.0,2.0,410000,,False,False,False,False,False,False,False,True,False,False
+Casa,Santa Efigênia,150.0,3.0,3.0,1.0,195000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,290.0,3.0,3.0,,199000,,True,False,False,False,True,False,False,False,False,False
+Casa,São Mateus,165.0,3.0,4.0,1.0,679000,,False,True,False,False,False,False,False,False,False,True
+Casa,São Mateus,89.0,3.0,2.0,,399000,,False,False,False,False,False,False,False,False,False,True
+Casa,São Mateus,177.0,3.0,2.0,1.0,420000,,True,False,False,False,True,False,False,False,False,False
+Casa,São Mateus,110.0,3.0,4.0,1.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,110.0,3.0,2.0,2.0,400000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,700.0,5.0,4.0,4.0,850000,,True,False,True,False,True,True,False,False,False,False
+Casa,São Mateus,61.0,3.0,3.0,4.0,439900,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,100.0,3.0,2.0,1.0,399000,,True,True,False,False,True,False,False,False,False,False
+Casa,São Mateus,89.0,3.0,2.0,,399000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,330.0,3.0,3.0,1.0,650000,,False,False,False,False,False,False,False,False,False,True
+Casa,São Mateus,232.0,4.0,4.0,3.0,990000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,90.0,3.0,1.0,,415000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,50.0,3.0,3.0,1.0,680000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,166.0,3.0,3.0,1.0,680000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,120.0,3.0,2.0,,399000,,True,True,False,False,False,False,False,False,False,True
+Casa,São Mateus,650.0,5.0,8.0,,1100000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,100.0,3.0,3.0,1.0,680000,,True,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,143.0,4.0,2.0,1.0,460000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,360.0,3.0,3.0,2.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,190.0,4.0,3.0,2.0,890000,,False,False,True,False,True,False,False,True,False,True
+Casa,São Mateus,200.0,5.0,3.0,2.0,400000,,True,False,False,False,True,False,False,False,False,False
+Casa,São Mateus,144.0,2.0,3.0,1.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,250.0,8.0,4.0,,329000,,True,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,166.0,3.0,3.0,1.0,680000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,340.0,4.0,2.0,1.0,530000,,True,False,False,False,True,False,False,False,False,True
+Casa,São Mateus,108.0,4.0,2.0,4.0,400000,,False,False,False,False,True,False,False,False,False,True
+Casa,São Mateus,450.0,4.0,5.0,6.0,1399000,,False,False,False,False,True,False,False,False,False,True
+Casa,São Mateus,205.0,4.0,3.0,1.0,580000,,True,False,True,False,True,False,False,False,False,False
+Casa,São Mateus,174.0,4.0,3.0,,745000,745000.0,False,True,False,False,False,False,False,False,False,False
+Casa,São Mateus,114.0,4.0,1.0,,499900,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,89.0,3.0,2.0,,399000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,240.0,3.0,3.0,1.0,680000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,108.0,4.0,2.0,2.0,400000,,True,True,False,False,False,False,False,False,False,False
+Casa,São Mateus,250.0,4.0,3.0,1.0,750000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Mateus,58.0,3.0,3.0,2.0,650000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,100.0,2.0,2.0,2.0,535000,300.0,False,False,False,False,True,False,True,True,True,False
+Apartamento,São Mateus,150.0,3.0,3.0,2.0,350000,,True,False,False,False,False,False,False,False,True,False
+Apartamento,São Mateus,67.0,2.0,1.0,1.0,295000,400.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,76.0,2.0,2.0,1.0,260000,263.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,179.0,4.0,3.0,3.0,890000,1400.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,São Mateus,74.0,2.0,2.0,1.0,385000,,False,True,False,True,False,False,True,False,False,True
+Apartamento,São Mateus,82.0,2.0,1.0,1.0,215000,285.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,São Mateus,67.0,2.0,1.0,2.0,549000,320.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,São Mateus,80.0,2.0,2.0,1.0,330000,640.0,True,False,False,True,False,False,True,False,True,False
+Apartamento,São Mateus,72.0,2.0,2.0,1.0,379000,300.0,True,False,False,True,True,False,True,False,False,True
+Apartamento,São Mateus,110.0,2.0,3.0,2.0,759057,,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,102.0,2.0,2.0,1.0,640000,550.0,False,False,False,True,False,False,False,False,True,False
+Apartamento,São Mateus,42.0,1.0,1.0,,180000,,True,False,False,False,False,False,True,False,True,False
+Apartamento,São Mateus,78.0,2.0,2.0,1.0,449000,290.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,São Mateus,60.0,2.0,2.0,,150000,24.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,144.0,3.0,3.0,1.0,680000,1100.0,True,False,False,True,False,False,True,False,False,False
+Apartamento,São Mateus,120.0,3.0,3.0,2.0,999990,350.0,True,False,False,True,True,False,True,True,False,False
+Apartamento,São Mateus,72.0,3.0,2.0,2.0,620000,,True,False,False,True,True,False,True,False,False,False
+Apartamento,São Mateus,82.0,2.0,2.0,1.0,340000,425.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,65.0,2.0,3.0,,200000,200.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,60.0,2.0,2.0,,150000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,57.0,2.0,1.0,,205000,400.0,True,False,False,True,True,False,False,False,False,False
+Apartamento,São Mateus,74.0,2.0,2.0,2.0,587602,,False,False,True,False,False,False,False,False,False,False
+Apartamento,São Mateus,85.0,2.0,2.0,,599000,507.0,True,False,False,False,True,True,False,False,False,True
+Apartamento,São Mateus,120.0,3.0,3.0,2.0,750000,400.0,True,False,False,True,False,False,False,False,True,False
+Apartamento,São Mateus,129.0,3.0,3.0,2.0,425000,300.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,65.0,2.0,1.0,1.0,260000,256.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,São Mateus,70.0,2.0,2.0,1.0,473000,,False,True,False,True,False,False,True,False,False,False
+Apartamento,São Mateus,250.0,3.0,3.0,2.0,675000,651.0,False,False,False,True,True,True,True,False,False,False
+Apartamento,São Mateus,120.0,3.0,2.0,2.0,489000,690.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,65.0,2.0,1.0,1.0,210000,300.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,São Mateus,72.0,2.0,2.0,2.0,500058,264.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,80.0,2.0,2.0,2.0,780000,550.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,São Mateus,97.0,2.0,2.0,1.0,435000,391.0,True,True,False,True,True,False,True,False,False,False
+Apartamento,São Pedro,60.0,1.0,1.0,1.0,159900,220.0,False,False,False,False,True,False,False,False,False,False
+Apartamento,São Pedro,50.0,2.0,1.0,1.0,140000,248.0,True,False,False,False,False,True,False,False,False,False
+Apartamento,São Pedro,52.0,2.0,1.0,1.0,190000,227.0,False,False,True,False,False,False,False,False,False,False
+Apartamento,São Pedro,90.0,2.0,2.0,2.0,470000,200.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,São Pedro,55.0,2.0,1.0,1.0,215000,,False,False,True,False,False,False,False,True,False,False
+Apartamento,São Pedro,59.0,2.0,1.0,1.0,220000,250.0,True,False,True,False,True,True,True,False,False,False
+Apartamento,São Pedro,47.0,2.0,1.0,,135000,170.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,52.0,2.0,1.0,1.0,220000,230.0,True,False,True,False,False,True,False,False,False,False
+Apartamento,São Pedro,50.0,2.0,1.0,1.0,170000,205.0,False,False,True,False,False,True,False,False,False,False
+Apartamento,São Pedro,70.0,2.0,2.0,1.0,289000,230.0,True,True,False,False,True,False,False,True,False,False
+Apartamento,São Pedro,47.0,2.0,1.0,,140000,193.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,51.0,1.0,1.0,1.0,125000,100.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,56.0,1.0,1.0,1.0,270000,300.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,São Pedro,50.0,2.0,1.0,1.0,150000,198.0,True,False,True,False,False,True,False,True,False,False
+Apartamento,São Pedro,70.0,2.0,1.0,1.0,230000,210.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,63.0,3.0,1.0,1.0,210000,356.0,True,False,True,False,False,True,True,True,False,False
+Apartamento,São Pedro,103.0,2.0,1.0,1.0,299000,300.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,60.0,2.0,1.0,1.0,120000,100.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,60.0,2.0,1.0,1.0,225000,200.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,São Pedro,68.0,2.0,1.0,1.0,290000,150.0,True,True,True,False,True,False,False,True,False,False
+Apartamento,São Pedro,50.0,2.0,1.0,2.0,210000,240.0,True,False,True,False,True,False,True,False,False,False
+Apartamento,São Pedro,46.0,1.0,1.0,1.0,269900,150.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,75.0,2.0,2.0,1.0,395000,290.0,True,True,False,True,True,False,False,True,False,False
+Apartamento,São Pedro,50.0,2.0,1.0,1.0,149000,190.0,False,True,False,False,False,False,True,False,False,False
+Apartamento,São Pedro,45.0,1.0,1.0,1.0,239900,120.0,True,False,False,True,True,False,True,True,False,False
+Apartamento,São Pedro,46.0,1.0,1.0,1.0,269900,,False,False,False,False,True,False,False,True,False,False
+Apartamento,São Pedro,62.0,2.0,1.0,1.0,155000,150.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,50.0,2.0,1.0,1.0,220000,100.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,46.0,1.0,1.0,1.0,290000,196.0,False,True,False,True,True,False,False,True,False,False
+Apartamento,São Pedro,43.0,1.0,1.0,,230197,,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,52.0,2.0,1.0,1.0,190000,230.0,True,False,True,False,False,True,True,True,False,False
+Apartamento,São Pedro,117.0,2.0,2.0,2.0,545000,,False,False,False,False,True,False,False,True,False,False
+Apartamento,São Pedro,55.0,2.0,2.0,1.0,290000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,71.0,2.0,2.0,1.0,270000,,True,True,False,False,False,False,False,False,False,True
+Casa,São Pedro,180.0,3.0,1.0,2.0,250000,,True,True,False,False,True,False,False,False,False,False
+Casa,São Pedro,140.0,4.0,2.0,2.0,235000,,True,True,False,False,True,False,False,False,False,False
+Casa,São Pedro,160.0,3.0,3.0,2.0,530000,,False,False,True,False,False,True,False,True,False,False
+Casa,São Pedro,250.0,3.0,2.0,2.0,610000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,100.0,3.0,2.0,,180000,,True,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,90.0,2.0,1.0,1.0,380000,,True,True,False,False,True,False,False,False,False,True
+Casa,São Pedro,140.0,3.0,3.0,2.0,570000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,150.0,3.0,3.0,3.0,395000,,True,True,False,False,True,False,False,False,False,False
+Casa,São Pedro,100.0,3.0,2.0,2.0,510000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,220.0,3.0,3.0,1.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,200.0,3.0,3.0,2.0,798000,,False,True,False,False,True,False,False,True,True,False
+Casa,São Pedro,140.0,3.0,2.0,4.0,600000,,True,True,False,False,False,False,False,False,False,True
+Casa,São Pedro,120.0,3.0,1.0,,180000,,True,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,150.0,2.0,3.0,2.0,620000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,135.0,2.0,2.0,2.0,620000,,True,True,False,False,True,False,False,False,False,False
+Casa,São Pedro,150.0,3.0,2.0,1.0,295000,,True,False,False,False,True,False,False,True,False,False
+Casa,São Pedro,120.0,3.0,3.0,3.0,390000,200.0,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,120.0,3.0,3.0,3.0,369000,200.0,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,193.0,4.0,1.0,,250000,,True,True,False,False,True,False,False,False,False,False
+Casa,São Pedro,280.0,3.0,2.0,2.0,540000,,True,True,False,False,True,False,False,False,False,True
+Casa,São Pedro,120.0,3.0,1.0,,180000,,True,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,150.0,2.0,2.0,1.0,620000,,True,True,False,False,True,False,False,False,False,False
+Casa,São Pedro,220.0,3.0,3.0,3.0,460000,,True,True,False,False,True,False,False,False,False,True
+Casa,São Pedro,240.0,4.0,3.0,3.0,699000,1.0,True,False,True,False,False,True,False,True,False,True
+Casa,São Pedro,120.0,3.0,2.0,2.0,255000,,True,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,130.0,3.0,3.0,2.0,580000,,True,True,False,False,False,False,False,False,False,True
+Casa,São Pedro,120.0,2.0,3.0,2.0,499000,,True,False,False,False,False,False,False,False,True,False
+Casa,São Pedro,75.0,3.0,2.0,2.0,220000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,300.0,4.0,5.0,2.0,1690000,,False,False,True,False,False,True,True,True,False,False
+Casa,São Pedro,60.0,2.0,1.0,1.0,212900,160.0,True,False,False,False,False,False,True,False,False,False
+Casa,São Pedro,120.0,3.0,2.0,3.0,499000,,True,False,False,False,True,False,False,False,False,True
+Apartamento,Cascatinha,90.0,2.0,2.0,1.0,280000,191.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,65.0,2.0,1.0,1.0,280000,351.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,85.0,2.0,3.0,1.0,350000,377.0,True,False,False,True,True,False,False,False,False,False
+Apartamento,Cascatinha,75.0,2.0,2.0,2.0,529900,250.0,True,False,True,True,False,False,False,True,False,False
+Apartamento,Cascatinha,186.0,3.0,3.0,2.0,770000,317.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,58.0,2.0,1.0,1.0,419000,260.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,90.0,2.0,2.0,1.0,450000,400.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,Cascatinha,123.0,3.0,3.0,2.0,895000,600.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Cascatinha,88.0,2.0,2.0,1.0,260000,265.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,85.0,3.0,2.0,2.0,699000,,False,True,True,True,False,False,False,True,False,False
+Apartamento,Cascatinha,107.0,2.0,3.0,2.0,595000,450.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Cascatinha,53.0,2.0,2.0,1.0,320000,30000.0,True,False,False,True,True,True,False,False,False,False
+Apartamento,Cascatinha,42.0,1.0,1.0,1.0,270000,230.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,66.0,3.0,1.0,1.0,440000,339.0,False,False,True,False,False,False,False,False,False,False
+Apartamento,Cascatinha,120.0,3.0,1.0,1.0,360000,350.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,154.0,3.0,2.0,2.0,499000,400.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Cascatinha,133.0,4.0,4.0,2.0,530000,450.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,90.0,2.0,2.0,1.0,519000,340.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Cascatinha,85.0,3.0,2.0,2.0,699000,1.0,True,False,True,True,True,False,False,False,False,False
+Apartamento,Cascatinha,85.0,3.0,3.0,2.0,629000,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Cascatinha,68.0,2.0,1.0,1.0,360000,357.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,89.0,2.0,3.0,1.0,289000,249.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,76.0,3.0,2.0,1.0,300000,198.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,81.0,2.0,1.0,1.0,350000,246.0,True,False,False,True,False,False,False,False,True,False
+Apartamento,Cascatinha,107.0,2.0,1.0,2.0,595000,380.0,False,False,False,False,False,False,False,True,False,False
+Apartamento,Cascatinha,80.0,2.0,3.0,1.0,559000,400.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Cascatinha,115.0,3.0,5.0,3.0,890000,600.0,False,False,False,True,True,False,False,True,False,False
+Apartamento,Cascatinha,90.0,2.0,1.0,1.0,275000,217.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,91.0,3.0,2.0,1.0,379900,273.0,True,True,False,False,False,False,True,False,False,False
+Apartamento,Cascatinha,88.0,2.0,2.0,1.0,190000,265.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,86.0,3.0,2.0,2.0,699900,350.0,True,False,True,True,True,False,False,False,False,False
+Apartamento,Cascatinha,70.0,2.0,2.0,1.0,499900,380.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Cascatinha,112.0,2.0,1.0,2.0,740000,510.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,85.0,2.0,1.0,1.0,529000,350.0,False,False,True,False,True,False,False,True,False,False
+Apartamento,Cascatinha,70.0,2.0,2.0,2.0,523000,10.0,False,False,True,True,True,False,True,False,False,False
+Casa,Cascatinha,192.0,5.0,4.0,2.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,345.0,5.0,5.0,4.0,1800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,119.0,3.0,2.0,1.0,350000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,300.0,7.0,5.0,4.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,734.0,4.0,3.0,4.0,1800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,156.0,5.0,4.0,2.0,1190000,,False,False,True,False,False,True,False,False,False,True
+Casa,Cascatinha,192.0,5.0,3.0,2.0,900000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,190.0,5.0,2.0,1.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,430.0,2.0,1.0,7.0,1050000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,350.0,4.0,4.0,4.0,1500000,,False,False,True,False,False,True,False,False,False,False
+Casa,Cascatinha,360.0,2.0,2.0,,690000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,196.0,4.0,3.0,2.0,1300000,,False,False,False,False,False,False,False,False,False,True
+Casa,Cascatinha,400.0,4.0,5.0,4.0,1500000,1.0,False,True,False,False,False,True,False,False,False,True
+Casa,Cascatinha,156.0,4.0,4.0,2.0,1199000,,False,True,False,False,True,False,False,False,False,False
+Casa,Cascatinha,250.0,5.0,3.0,2.0,1199000,,True,False,False,False,True,False,False,True,True,False
+Casa,Cascatinha,320.0,6.0,4.0,3.0,1800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Cascatinha,390.0,5.0,5.0,6.0,1580000,,True,True,False,False,True,True,False,False,False,True
+Casa,Cascatinha,180.0,3.0,1.0,6.0,1800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,75.0,2.0,1.0,,120000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,140.0,3.0,3.0,2.0,625000,,False,False,False,False,True,False,False,False,False,False
+Casa,Aeroporto,140.0,3.0,3.0,2.0,630000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,144.0,3.0,2.0,2.0,690000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,151.0,3.0,3.0,2.0,630000,,True,False,True,False,True,False,False,True,False,False
+Casa,Aeroporto,176.0,3.0,4.0,2.0,780000,,True,True,False,False,False,False,False,False,False,False
+Casa,Aeroporto,160.0,3.0,6.0,2.0,998000,380.0,True,False,False,False,True,False,True,False,False,True
+Casa,Aeroporto,150.0,3.0,3.0,2.0,625000,,False,False,False,False,False,False,False,False,False,True
+Casa,Aeroporto,193.0,3.0,3.0,2.0,740000,,True,True,False,False,True,False,False,False,False,False
+Casa,Aeroporto,230.0,3.0,3.0,2.0,816990,,True,True,True,False,True,False,False,True,False,False
+Casa,Aeroporto,186.0,3.0,4.0,2.0,889000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,163.0,3.0,3.0,2.0,730000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,193.0,3.0,3.0,2.0,720000,,False,True,False,False,True,False,False,True,True,False
+Casa,Aeroporto,148.0,3.0,3.0,2.0,630000,,False,False,False,False,True,False,False,True,True,False
+Casa,Aeroporto,104.0,3.0,3.0,2.0,630000,1.0,True,True,False,False,True,False,False,True,False,False
+Casa,Aeroporto,230.0,3.0,3.0,2.0,790000,,False,False,True,False,False,False,False,False,False,False
+Casa,Aeroporto,140.0,3.0,3.0,2.0,890000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,140.0,3.0,2.0,2.0,595000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,140.0,3.0,4.0,2.0,680000,10.0,True,False,False,False,True,False,False,True,False,True
+Casa,Aeroporto,328.0,3.0,3.0,2.0,890000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,165.0,3.0,3.0,,685000,,False,True,False,False,True,False,False,True,False,False
+Casa,Aeroporto,75.0,2.0,1.0,,120000,,True,True,False,False,False,False,False,False,False,True
+Casa,Aeroporto,151.0,3.0,3.0,2.0,630000,,False,False,True,False,False,False,False,True,False,False
+Casa,Aeroporto,175.0,3.0,4.0,4.0,840000,,True,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,175.0,3.0,4.0,4.0,790000,,False,False,False,False,False,False,False,False,False,True
+Casa,Aeroporto,120.0,3.0,2.0,2.0,620000,,False,False,False,False,False,True,False,True,False,False
+Casa,Aeroporto,140.0,3.0,3.0,2.0,870000,,True,True,False,False,False,False,False,False,False,True
+Casa,Aeroporto,108.0,3.0,2.0,2.0,590000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,335.0,3.0,4.0,4.0,1650000,,False,False,False,False,False,False,False,False,False,False
+Casa,Aeroporto,150.0,3.0,3.0,2.0,630000,,True,False,True,False,False,False,False,True,False,False
+Casa,Aeroporto,144.0,3.0,2.0,3.0,550000,,True,False,True,False,True,False,False,False,False,True
+Casa,Aeroporto,230.0,3.0,2.0,2.0,817000,10.0,True,False,True,False,True,True,False,True,False,False
+Casa,Aeroporto,168.0,3.0,3.0,2.0,630000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Vivendas da Serra,153.0,3.0,2.0,1.0,240000,190.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,50.0,2.0,1.0,1.0,160000,150.0,True,False,True,True,False,True,True,False,False,False
+Apartamento,Aeroporto,78.0,2.0,2.0,2.0,390000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,90.0,2.0,2.0,1.0,259000,,True,False,True,True,False,True,True,False,False,False
+Apartamento,Aeroporto,120.0,3.0,4.0,2.0,699000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,76.0,2.0,1.0,1.0,285000,348.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,100.0,2.0,1.0,1.0,450000,234.0,False,False,False,True,True,False,False,True,False,False
+Apartamento,Aeroporto,47.0,2.0,1.0,1.0,200000,225.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Aeroporto,60.0,2.0,2.0,2.0,308000,,False,True,False,True,False,True,False,True,False,False
+Apartamento,Aeroporto,93.0,2.0,2.0,1.0,429900,1.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Aeroporto,65.0,2.0,1.0,1.0,299000,243.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,Aeroporto,76.0,2.0,2.0,1.0,300000,254.0,False,False,True,True,False,True,False,False,False,False
+Apartamento,Aeroporto,60.0,2.0,2.0,1.0,308000,,False,False,True,True,True,True,False,False,False,False
+Apartamento,Aeroporto,10.0,2.0,1.0,1.0,239000,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Aeroporto,78.0,2.0,1.0,1.0,321775,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,134.0,2.0,2.0,2.0,617000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,190.0,4.0,3.0,2.0,990000,,False,False,False,True,False,False,False,False,True,False
+Apartamento,Aeroporto,73.0,2.0,2.0,1.0,380000,233.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,55.0,2.0,2.0,1.0,239000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,85.0,2.0,2.0,2.0,422000,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Aeroporto,69.0,2.0,1.0,1.0,250000,220.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,10.0,2.0,2.0,1.0,289000,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Aeroporto,60.0,2.0,1.0,1.0,308000,250.0,True,True,True,True,False,True,False,False,False,False
+Apartamento,Aeroporto,45.0,1.0,1.0,1.0,275000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,68.0,2.0,1.0,1.0,400000,350.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,133.0,3.0,3.0,2.0,749000,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Aeroporto,90.0,2.0,2.0,1.0,420000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,60.0,2.0,2.0,1.0,308000,,False,False,False,False,False,True,False,False,False,False
+Apartamento,Aeroporto,57.0,2.0,2.0,1.0,305000,,False,False,False,True,True,True,False,True,False,False
+Apartamento,Aeroporto,80.0,2.0,2.0,1.0,321775,450.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,120.0,3.0,3.0,2.0,679000,,False,False,False,False,True,True,False,True,False,False
+Apartamento,Aeroporto,46.0,1.0,1.0,1.0,249000,195.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Aeroporto,61.0,2.0,2.0,1.0,259900,350.0,False,False,False,False,False,False,False,False,False,True
+Apartamento,Aeroporto,70.0,2.0,2.0,1.0,308000,250.0,True,False,True,True,True,True,False,False,False,False
+Apartamento,Aeroporto,135.0,3.0,2.0,2.0,599000,200.0,False,False,False,True,True,False,False,True,False,False
+Apartamento,Bom Pastor,82.0,2.0,1.0,1.0,250000,240.0,False,True,False,False,False,False,False,False,True,False
+Apartamento,Bom Pastor,104.0,2.0,2.0,2.0,285000,186.0,True,False,False,False,True,False,False,False,False,False
+Apartamento,Bom Pastor,70.0,2.0,1.0,,140000,250.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,118.0,3.0,1.0,2.0,300000,260.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,110.0,3.0,3.0,1.0,649000,645.0,True,False,False,True,True,False,True,False,False,False
+Apartamento,Bom Pastor,126.0,2.0,3.0,1.0,249000,320.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Bom Pastor,80.0,2.0,2.0,1.0,260000,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,55.0,2.0,1.0,2.0,400000,330.0,False,False,True,False,False,True,False,True,False,False
+Apartamento,Bom Pastor,91.0,3.0,2.0,1.0,350000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,105.0,3.0,3.0,2.0,500000,,False,False,True,False,True,True,False,True,False,False
+Apartamento,Bom Pastor,210.0,4.0,5.0,2.0,679000,1400.0,True,False,True,True,True,True,False,False,False,False
+Apartamento,Bom Pastor,403.0,2.0,2.0,,525000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,200.0,3.0,2.0,1.0,850000,888.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,Bom Pastor,101.0,2.0,2.0,2.0,367000,,True,False,False,True,True,False,False,False,False,False
+Apartamento,Bom Pastor,80.0,2.0,2.0,2.0,389000,260.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Bom Pastor,65.0,2.0,2.0,1.0,310000,570.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Bom Pastor,41.0,1.0,1.0,1.0,329000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,92.0,2.0,2.0,2.0,490000,340.0,False,False,False,True,False,True,True,False,False,False
+Apartamento,Bom Pastor,69.0,2.0,2.0,,260000,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,98.0,2.0,2.0,1.0,365000,,True,False,False,False,True,False,False,True,False,False
+Apartamento,Bom Pastor,90.0,3.0,2.0,1.0,280000,335.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Bom Pastor,77.0,2.0,2.0,1.0,225000,230.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,93.0,3.0,1.0,1.0,290000,320.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,82.0,3.0,1.0,,200000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,118.0,3.0,2.0,2.0,300000,260.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bom Pastor,91.0,3.0,1.0,1.0,299000,322.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Bom Pastor,144.0,3.0,3.0,2.0,620000,650.0,False,True,False,True,False,False,False,False,False,False
+Apartamento,Bom Pastor,70.0,2.0,2.0,1.0,349000,,False,False,False,True,False,True,False,False,False,False
+Apartamento,Bom Pastor,227.0,4.0,6.0,4.0,2000000,800.0,False,True,False,True,True,False,False,True,False,False
+Apartamento,Bom Pastor,120.0,3.0,2.0,2.0,579900,580.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Bom Pastor,160.0,2.0,2.0,1.0,248900,220.0,True,True,False,False,False,False,True,False,False,True
+Apartamento,Bom Pastor,142.0,2.0,1.0,2.0,830000,535.0,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,180.0,3.0,2.0,,300000,,False,False,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,135.0,3.0,4.0,3.0,930000,,False,False,True,False,True,True,False,True,False,False
+Casa,Bom Pastor,144.0,3.0,2.0,4.0,950000,,False,False,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,288.0,6.0,3.0,3.0,1100000,,True,False,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,147.0,4.0,3.0,1.0,480000,,True,True,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,456.0,3.0,1.0,1.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,124.0,3.0,3.0,3.0,499000,,True,True,False,False,True,False,False,False,False,False
+Casa,Bom Pastor,301.0,3.0,4.0,,700000,,True,False,False,False,True,False,False,True,False,False
+Casa,Bom Pastor,360.0,5.0,3.0,2.0,989000,,True,False,False,False,True,False,False,False,False,False
+Casa,Bom Pastor,210.0,4.0,3.0,1.0,1390000,,False,False,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,556.0,7.0,7.0,4.0,640000,,True,False,True,False,False,True,False,True,False,False
+Casa,Bom Pastor,400.0,7.0,7.0,4.0,640000,,True,False,True,False,False,True,False,False,False,False
+Casa,Bom Pastor,53.0,2.0,3.0,,550000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,104.0,3.0,2.0,1.0,449000,90.0,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,312.0,4.0,4.0,2.0,2000000,10.0,True,False,True,False,True,False,False,False,False,True
+Casa,Bom Pastor,376.0,4.0,4.0,3.0,930000,,False,False,True,False,True,True,False,True,False,False
+Casa,Bom Pastor,340.0,3.0,5.0,3.0,1200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,209.0,4.0,2.0,2.0,1300000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,147.0,4.0,2.0,1.0,650000,,False,False,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,174.0,4.0,4.0,3.0,700000,,True,True,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,114.0,3.0,3.0,4.0,650000,,True,False,True,False,True,False,False,True,False,True
+Casa,Bom Pastor,250.0,3.0,3.0,4.0,1500000,,False,False,True,False,True,True,False,True,False,True
+Casa,Bom Pastor,478.0,4.0,3.0,3.0,2900000,,False,False,True,False,False,True,False,False,False,True
+Casa,Bom Pastor,286.0,4.0,2.0,6.0,1380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,132.0,4.0,3.0,3.0,900000,,False,False,False,False,False,True,False,False,False,False
+Casa,Bom Pastor,120.0,3.0,2.0,2.0,635000,,True,True,False,False,True,False,False,False,False,True
+Casa,Bom Pastor,371.0,5.0,4.0,4.0,2500000,,False,False,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,390.0,3.0,3.0,3.0,930000,,False,False,False,False,False,True,False,True,False,False
+Casa,Bom Pastor,403.0,4.0,3.0,1.0,1200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,350.0,4.0,2.0,,1200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,373.0,4.0,3.0,2.0,1380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,450.0,4.0,5.0,4.0,2100000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Pastor,280.0,3.0,2.0,5.0,900000,,True,True,False,False,True,False,False,False,False,False
+Casa,Bom Pastor,334.0,4.0,9.0,3.0,2000000,,False,True,False,False,False,False,False,False,False,True
+Casa,Bom Pastor,238.0,3.0,2.0,5.0,1200000,,False,False,False,False,True,False,False,True,False,False
+Casa,Bom Pastor,498.0,4.0,2.0,1.0,650000,,False,True,False,False,False,False,False,False,False,True
+Casa,Santa Helena,150.0,5.0,3.0,4.0,890000,,True,False,True,False,True,False,False,True,True,False
+Casa,Santa Helena,127.0,2.0,4.0,2.0,750000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,192.0,3.0,4.0,5.0,990000,,False,False,False,False,False,False,False,False,False,True
+Casa,Santa Helena,172.0,3.0,4.0,1.0,1000000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,192.0,3.0,1.0,5.0,990000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,172.0,3.0,5.0,1.0,849000,,False,False,False,False,False,False,False,False,False,True
+Casa,Santa Helena,192.0,3.0,4.0,5.0,980000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,200.0,4.0,3.0,2.0,649000,,True,True,False,False,True,False,False,False,False,True
+Casa,Santa Helena,250.0,2.0,2.0,2.0,800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,220.0,3.0,2.0,2.0,790000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,90.0,5.0,2.0,4.0,790000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,277.0,5.0,4.0,4.0,2150000,,False,False,True,False,False,False,False,False,False,False
+Casa,Santa Helena,408.0,5.0,2.0,4.0,2120000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,585.0,4.0,3.0,5.0,990000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,270.0,4.0,4.0,4.0,1850000,,False,True,False,False,True,False,False,True,False,True
+Casa,Santa Helena,250.0,4.0,3.0,3.0,2200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,320.0,4.0,1.0,2.0,970000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Helena,95.0,4.0,2.0,2.0,1100000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Helena,368.0,5.0,3.0,4.0,2650000,,True,True,False,False,False,False,False,False,False,True
+Casa,Industrial,160.0,4.0,2.0,1.0,270000,,True,True,False,False,True,False,False,False,False,False
+Apartamento,Santa Helena,222.0,3.0,5.0,3.0,1090000,1300.0,False,False,False,True,True,False,False,True,False,False
+Apartamento,Santa Helena,87.0,2.0,2.0,1.0,330000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,10.0,5.0,3.0,4.0,2850000,1000.0,False,False,False,True,True,False,False,True,True,False
+Apartamento,Santa Helena,180.0,4.0,4.0,4.0,1680000,,True,False,False,True,True,False,False,True,True,False
+Apartamento,Santa Helena,68.0,2.0,1.0,,185000,140.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,96.0,3.0,2.0,,270000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,10.0,4.0,2.0,2.0,1350000,800.0,False,False,False,True,True,False,False,True,True,False
+Apartamento,Santa Helena,85.0,3.0,1.0,1.0,284900,200.0,True,False,True,False,True,False,False,True,False,False
+Apartamento,Santa Helena,82.0,2.0,2.0,,214000,360.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,80.0,3.0,2.0,,340000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,139.0,4.0,3.0,1.0,470000,265.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,146.0,5.0,3.0,2.0,680000,730.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,Santa Helena,68.0,3.0,1.0,,259000,250.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,114.0,3.0,3.0,1.0,579000,550.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Santa Helena,86.0,3.0,1.0,2.0,589000,390.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,Santa Helena,104.0,3.0,2.0,1.0,380000,300.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,60.0,2.0,1.0,1.0,265000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,221.0,4.0,3.0,2.0,599000,535.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,Santa Helena,65.0,2.0,1.0,1.0,384000,220.0,True,True,False,True,True,False,False,True,False,False
+Apartamento,Santa Helena,122.0,2.0,2.0,2.0,680000,335.0,False,False,True,False,True,False,False,True,False,False
+Apartamento,Santa Helena,50.0,2.0,1.0,1.0,306000,,True,True,False,True,False,False,False,False,False,True
+Apartamento,Santa Helena,224.0,4.0,3.0,2.0,820000,1375.0,False,False,False,True,False,False,False,False,True,False
+Apartamento,Santa Helena,69.0,2.0,1.0,1.0,504000,312.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,Santa Helena,104.0,3.0,2.0,1.0,399000,340.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,72.0,2.0,1.0,1.0,299000,180.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Santa Helena,85.0,3.0,1.0,1.0,285000,200.0,True,False,False,False,False,False,False,False,False,True
+Apartamento,Santa Helena,76.0,2.0,2.0,2.0,779900,,False,False,True,True,False,True,False,True,False,False
+Apartamento,Santa Helena,90.0,3.0,1.0,1.0,355000,220.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,151.0,2.0,3.0,3.0,1049900,,False,False,True,False,True,True,False,True,False,False
+Apartamento,Santa Helena,76.0,2.0,1.0,2.0,779900,,False,False,True,False,False,False,False,True,False,False
+Apartamento,Santa Helena,65.0,2.0,2.0,1.0,379000,260.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Helena,130.0,3.0,3.0,2.0,825000,,False,False,False,True,True,False,False,True,True,True
+Apartamento,Santa Helena,70.0,2.0,1.0,1.0,239900,250.0,True,False,False,False,True,False,True,False,False,True
+Apartamento,Santa Helena,154.0,2.0,2.0,3.0,1049900,,False,False,True,True,True,True,False,False,False,False
+Apartamento,Santa Helena,86.0,3.0,1.0,2.0,579000,250.0,False,False,False,False,True,False,False,True,False,False
+Apartamento,Santa Helena,65.0,2.0,1.0,1.0,439000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,84.0,2.0,2.0,2.0,599690,550.0,False,False,True,False,False,True,True,True,False,False
+Apartamento,Centro,144.0,3.0,3.0,1.0,650000,780.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Centro,81.0,2.0,2.0,1.0,330000,380.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,100.0,3.0,2.0,,280000,260.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Centro,110.0,3.0,1.0,2.0,798304,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Centro,82.0,3.0,3.0,,330000,337.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,82.0,3.0,2.0,1.0,522000,472.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Centro,52.0,1.0,2.0,,189000,491.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,10.0,3.0,1.0,,173982,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,157.0,3.0,3.0,2.0,990000,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,97.0,3.0,2.0,1.0,395000,640.0,True,False,False,True,False,False,False,False,True,False
+Apartamento,Centro,88.0,2.0,2.0,,270000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,50.0,2.0,1.0,,190000,346.0,True,False,False,False,False,False,True,False,True,False
+Apartamento,Centro,112.0,3.0,2.0,,260000,260.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,72.0,2.0,2.0,,230000,260.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,155.0,3.0,3.0,1.0,495000,1115.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,70.0,2.0,2.0,,220000,400.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,144.0,3.0,3.0,1.0,640000,865.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Centro,40.0,1.0,1.0,,140000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,116.0,3.0,2.0,,339900,332.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,120.0,3.0,2.0,1.0,399900,270.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,66.0,1.0,1.0,1.0,230000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,60.0,2.0,1.0,,185000,186.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,90.0,1.0,1.0,1.0,400000,800.0,False,False,True,True,True,False,True,False,False,False
+Apartamento,Centro,120.0,3.0,3.0,2.0,840000,970.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Centro,57.0,1.0,1.0,1.0,225000,380.0,False,False,False,False,False,False,True,False,True,False
+Apartamento,Centro,58.0,2.0,1.0,,320000,443.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,70.0,2.0,1.0,,250000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,227.0,4.0,3.0,3.0,1790000,890.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Centro,53.0,2.0,2.0,,280000,380.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Paineiras,73.0,2.0,2.0,,250000,250.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Paineiras,53.0,2.0,1.0,,179000,235.0,True,False,False,False,False,False,True,False,True,False
+Apartamento,Paineiras,97.0,2.0,2.0,1.0,330000,220.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,119.0,3.0,2.0,1.0,310000,550.0,True,True,False,False,False,False,False,False,True,False
+Apartamento,Paineiras,90.0,3.0,1.0,1.0,270000,150.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,55.0,2.0,1.0,1.0,160000,210.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,85.0,3.0,1.0,2.0,429000,287.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,130.0,3.0,2.0,,279900,270.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,74.0,2.0,1.0,1.0,240000,245.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,67.0,2.0,1.0,1.0,325000,265.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,77.0,2.0,1.0,1.0,295000,224.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,67.0,2.0,1.0,1.0,309000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,81.0,2.0,1.0,1.0,270000,196.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,63.0,2.0,1.0,,148000,32.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,63.0,1.0,1.0,1.0,200000,151.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,90.0,3.0,1.0,1.0,239900,230.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,75.0,2.0,2.0,1.0,230000,280.0,True,True,False,False,False,False,False,False,False,True
+Apartamento,Paineiras,70.0,3.0,1.0,1.0,220000,366.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,58.0,2.0,2.0,,249000,150.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,81.0,2.0,1.0,,140000,236.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,68.0,2.0,1.0,1.0,235000,222.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,86.0,2.0,2.0,1.0,350000,185.0,True,False,False,False,False,False,True,False,False,False
+Apartamento,Paineiras,64.0,2.0,1.0,1.0,250000,201.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Paineiras,70.0,2.0,2.0,1.0,189000,168.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Paineiras,63.0,2.0,1.0,,148000,150.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,77.0,2.0,1.0,1.0,295000,224.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,65.0,2.0,1.0,,165000,,True,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,65.0,3.0,1.0,1.0,239000,194.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Paineiras,55.0,2.0,1.0,,200000,265.0,True,True,False,False,False,False,True,False,False,True
+Apartamento,Paineiras,66.0,2.0,2.0,1.0,309000,1.0,False,False,False,False,False,False,False,False,False,False
+Casa,Paineiras,300.0,3.0,3.0,,525000,,True,True,False,False,False,False,False,False,False,False
+Casa,Paineiras,260.0,4.0,5.0,2.0,1220000,,True,False,False,False,True,False,False,True,False,False
+Casa,Paineiras,300.0,3.0,2.0,1.0,599000,,True,True,False,False,False,False,False,False,False,False
+Casa,Paineiras,207.0,3.0,4.0,3.0,1220000,,False,False,True,False,False,False,False,True,False,False
+Casa,Paineiras,207.0,3.0,3.0,2.0,1220000,,False,False,False,False,False,False,False,False,False,False
+Casa,Paineiras,354.0,3.0,4.0,2.0,1220000,,False,False,True,False,False,False,False,True,False,False
+Casa,Paineiras,160.0,4.0,5.0,2.0,1390000,,False,False,False,False,True,False,False,False,False,True
+Casa,Paineiras,207.0,3.0,4.0,2.0,1220000,,False,False,False,False,False,False,False,True,False,False
+Casa,Paineiras,225.0,3.0,4.0,4.0,1390000,,True,False,True,False,True,False,False,False,False,False
+Casa,Paineiras,207.0,3.0,5.0,2.0,1220000,,True,True,False,False,True,False,False,True,False,True
+Casa,Paineiras,200.0,4.0,3.0,5.0,851000,,False,False,False,False,False,False,False,False,False,False
+Casa,Paineiras,354.0,4.0,3.0,2.0,1220000,,False,False,True,False,False,False,False,True,False,True
+Casa,Paineiras,290.0,6.0,3.0,1.0,800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Paineiras,207.0,3.0,3.0,2.0,1220000,,True,True,True,False,True,False,False,True,False,False
+Casa,Paineiras,300.0,6.0,4.0,1.0,850000,,True,True,False,False,True,False,False,False,False,False
+Casa,Paineiras,207.0,3.0,5.0,2.0,1220000,,True,True,False,False,False,False,False,False,False,True
+Casa,Paineiras,207.0,3.0,4.0,3.0,1220000,,True,False,False,False,True,False,False,False,False,False
+Casa,Paineiras,660.0,6.0,6.0,5.0,5000000,,False,False,False,False,False,False,False,False,False,False
+Casa,Paineiras,135.0,4.0,2.0,6.0,1800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,120.0,3.0,3.0,2.0,560000,,True,True,False,False,False,False,False,False,False,True
+Casa,Marilândia,120.0,3.0,2.0,2.0,540000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,180.0,3.0,4.0,2.0,690000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,150.0,3.0,3.0,2.0,629000,,False,False,False,False,False,False,False,True,False,True
+Casa,Marilândia,150.0,3.0,1.0,3.0,620000,,True,False,False,False,False,False,True,True,True,False
+Casa,Marilândia,125.0,3.0,2.0,2.0,650000,100.0,True,True,False,False,False,False,True,False,False,False
+Casa,Marilândia,150.0,3.0,1.0,3.0,680000,,True,False,True,False,False,False,True,True,False,False
+Casa,Marilândia,136.0,3.0,3.0,2.0,630000,100.0,True,True,False,False,True,False,False,False,False,False
+Casa,Marilândia,100.0,2.0,3.0,1.0,409000,30.0,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,136.0,3.0,2.0,3.0,299000,,True,False,False,False,True,False,False,False,False,False
+Casa,Marilândia,180.0,3.0,5.0,2.0,649000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,140.0,3.0,3.0,2.0,685000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,100.0,2.0,2.0,2.0,409000,,True,False,False,False,True,False,False,True,False,True
+Casa,Marilândia,130.0,3.0,3.0,2.0,498000,,True,True,False,False,True,False,False,False,False,True
+Casa,Marilândia,125.0,3.0,2.0,2.0,545000,,True,False,False,False,True,False,False,False,False,False
+Casa,Marilândia,145.0,3.0,3.0,2.0,680000,,False,False,False,False,False,False,False,False,False,True
+Casa,Marilândia,120.0,3.0,3.0,2.0,539000,,True,True,False,False,True,False,False,False,False,False
+Casa,Marilândia,150.0,3.0,1.0,3.0,650000,,True,False,True,False,False,False,True,True,False,False
+Casa,Marilândia,70.0,2.0,2.0,1.0,240000,,True,True,False,False,True,False,False,False,False,False
+Casa,Marilândia,51.0,2.0,1.0,1.0,239999,,True,True,False,False,True,False,False,False,False,False
+Casa,Marilândia,136.0,3.0,3.0,3.0,630000,,False,False,False,False,True,False,False,True,False,False
+Casa,Marilândia,160.0,3.0,4.0,3.0,680000,30.0,False,True,False,False,True,False,False,False,False,False
+Casa,Marilândia,180.0,3.0,3.0,5.0,690000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,51.0,2.0,1.0,1.0,239900,,True,True,False,False,False,False,False,False,False,False
+Casa,Marilândia,150.0,3.0,2.0,2.0,545000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,180.0,3.0,2.0,2.0,545000,,True,True,False,False,True,False,False,False,False,True
+Casa,Marilândia,180.0,3.0,2.0,2.0,685000,1.0,False,False,False,False,False,False,False,False,True,False
+Casa,Marilândia,140.0,3.0,3.0,2.0,685000,,False,True,False,False,False,False,False,False,False,False
+Casa,Marilândia,120.0,3.0,3.0,2.0,540000,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,325.0,3.0,3.0,2.0,685000,,False,False,False,False,False,False,False,False,False,True
+Casa,Marilândia,51.0,2.0,1.0,1.0,239900,,False,False,False,False,False,False,False,False,False,False
+Casa,Marilândia,140.0,3.0,3.0,2.0,685000,1.0,True,True,False,False,True,False,False,True,False,False
+Casa,Marilândia,150.0,3.0,3.0,2.0,419900,160.0,True,True,False,False,False,False,True,False,False,True
+Casa,Marilândia,220.0,3.0,3.0,4.0,775000,,True,True,False,False,True,False,False,False,False,True
+Apartamento,Marilândia,58.0,2.0,1.0,1.0,175000,210.0,True,True,True,True,False,True,False,False,False,False
+Apartamento,Marilândia,52.0,2.0,1.0,1.0,199900,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,86.0,2.0,1.0,1.0,290000,190.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,58.0,2.0,1.0,1.0,128000,180.0,False,False,False,False,False,True,False,False,False,False
+Apartamento,Marilândia,40.0,2.0,1.0,1.0,170000,245.0,True,False,False,True,False,True,True,True,False,False
+Apartamento,Marilândia,60.0,2.0,1.0,1.0,196000,,True,False,False,True,False,False,False,False,True,False
+Apartamento,Marilândia,87.0,2.0,1.0,1.0,215000,180.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Marilândia,60.0,2.0,1.0,1.0,190000,232.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,58.0,2.0,1.0,1.0,145000,10.0,True,True,False,False,False,False,True,False,False,False
+Apartamento,Marilândia,55.0,2.0,1.0,1.0,196000,250.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Marilândia,57.0,2.0,1.0,1.0,129900,187.0,True,False,False,True,False,True,False,False,False,True
+Apartamento,Marilândia,58.0,2.0,1.0,,159900,189.0,True,False,False,True,False,True,True,False,False,False
+Apartamento,Marilândia,45.0,2.0,1.0,1.0,165000,220.0,False,False,True,False,False,True,True,True,False,True
+Apartamento,Marilândia,58.0,2.0,1.0,1.0,175000,210.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Marilândia,77.0,2.0,1.0,1.0,229000,200.0,True,True,False,False,True,False,False,True,False,False
+Apartamento,Marilândia,40.0,2.0,1.0,1.0,150000,243.0,True,False,True,False,False,True,True,False,False,False
+Apartamento,Marilândia,55.0,2.0,1.0,1.0,196000,1.0,True,False,False,True,False,False,False,False,True,False
+Apartamento,Marilândia,71.0,2.0,1.0,1.0,200000,180.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,10.0,2.0,1.0,1.0,101418,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,50.0,2.0,1.0,1.0,190000,187.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,77.0,2.0,1.0,1.0,229000,226.0,True,True,False,False,True,False,True,False,False,False
+Apartamento,Marilândia,64.0,2.0,1.0,1.0,180000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,50.0,2.0,1.0,1.0,205000,180.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Marilândia,45.0,2.0,1.0,1.0,165000,185.0,False,False,True,True,False,True,False,False,False,False
+Apartamento,Marilândia,50.0,2.0,1.0,1.0,210000,130.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,100.0,3.0,2.0,1.0,360000,,True,False,False,True,False,False,False,False,True,False
+Apartamento,Marilândia,50.0,2.0,1.0,1.0,145000,200.0,True,False,False,True,False,True,True,True,False,False
+Apartamento,Marilândia,40.0,2.0,1.0,1.0,160000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,58.0,2.0,1.0,1.0,196000,,True,False,False,True,False,False,False,False,True,False
+Apartamento,Marilândia,65.0,2.0,1.0,1.0,170000,228.0,True,False,False,False,False,False,False,False,False,True
+Apartamento,Marilândia,57.0,2.0,1.0,1.0,185000,180.0,False,True,True,True,False,True,False,False,False,False
+Apartamento,Marilândia,57.0,2.0,1.0,1.0,200000,207.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,50.0,2.0,1.0,1.0,190000,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Marilândia,45.0,2.0,1.0,1.0,130000,65.0,True,False,True,True,False,True,True,False,False,False
+Apartamento,Marilândia,53.0,2.0,1.0,1.0,185000,162.0,True,False,True,False,False,True,True,False,False,False
+Apartamento,São Mateus,60.0,2.0,2.0,,150000,50.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,153.0,3.0,3.0,2.0,485000,780.0,True,False,False,True,True,False,False,False,False,False
+Apartamento,São Mateus,60.0,2.0,2.0,1.0,275000,290.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,São Mateus,112.0,2.0,3.0,2.0,620000,757210.0,False,False,False,True,True,False,False,True,False,False
+Apartamento,São Mateus,250.0,4.0,4.0,5.0,460000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,98.0,2.0,2.0,1.0,420000,430.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,143.0,3.0,2.0,1.0,650000,626.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,São Mateus,89.0,2.0,3.0,2.0,780000,,False,False,False,True,False,False,False,False,False,False
+Apartamento,São Mateus,110.0,3.0,2.0,1.0,359000,270.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,74.0,2.0,2.0,1.0,245000,140.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,78.0,2.0,1.0,1.0,285000,290.0,True,False,False,False,False,False,True,False,False,False
+Apartamento,São Mateus,68.0,2.0,1.0,,179990,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Mateus,70.0,2.0,1.0,1.0,250000,190.0,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,360.0,3.0,3.0,2.0,550000,,True,True,False,False,True,False,False,False,False,False
+Casa,Bairu,200.0,6.0,1.0,4.0,850000,,True,False,False,False,False,False,False,False,False,False
+Casa,Bairu,127.0,3.0,3.0,,450000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,90.0,3.0,2.0,,825000,,True,True,False,False,True,False,False,True,False,True
+Casa,Bairu,153.0,3.0,3.0,1.0,530000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,131.0,4.0,3.0,,449000,,False,False,False,False,True,False,False,False,False,True
+Casa,Bairu,150.0,3.0,3.0,3.0,985000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,331.0,6.0,3.0,2.0,700000,,True,True,False,False,True,False,False,False,False,True
+Casa,Bairu,96.0,3.0,2.0,2.0,520000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,88.0,3.0,2.0,1.0,339000,,True,False,False,False,True,False,False,False,False,False
+Casa,Bairu,260.0,4.0,2.0,2.0,780000,,True,True,False,False,True,False,False,False,False,True
+Casa,Bairu,180.0,,2.0,4.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,198.0,4.0,2.0,4.0,850000,,True,True,False,False,True,False,False,False,False,True
+Casa,Bairu,83.0,3.0,3.0,2.0,580000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,536.0,6.0,8.0,7.0,1700000,,True,False,True,False,False,True,False,True,False,True
+Casa,Bairu,150.0,3.0,2.0,3.0,985000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,150.0,3.0,2.0,2.0,985000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,560.0,4.0,2.0,4.0,1590000,,False,False,True,False,True,True,False,False,False,False
+Casa,Bairu,420.0,4.0,4.0,3.0,1350000,,True,True,False,False,True,False,False,True,False,True
+Casa,Bairu,242.0,4.0,4.0,4.0,1150000,,True,True,False,False,True,False,False,False,False,True
+Casa,Bairu,150.0,4.0,3.0,3.0,985000,1.0,True,False,True,False,False,False,False,True,False,True
+Casa,Bairu,500.0,6.0,2.0,,1200000,,True,True,False,False,True,False,False,False,False,True
+Casa,Bairu,302.0,4.0,4.0,9.0,799000,,False,False,False,False,False,True,False,False,False,True
+Casa,Bairu,296.0,4.0,3.0,4.0,849900,,True,True,False,False,True,False,False,False,False,True
+Casa,Bairu,120.0,3.0,1.0,2.0,610000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,120.0,5.0,2.0,3.0,600000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,168.0,3.0,1.0,1.0,395000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,250.0,3.0,3.0,3.0,985000,,True,True,False,False,True,False,False,False,False,False
+Casa,Bairu,450.0,5.0,5.0,2.0,1200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,240.0,4.0,3.0,1.0,1290000,,True,False,False,False,False,False,False,False,False,True
+Casa,Bairu,101.0,7.0,3.0,1.0,700000,,True,False,False,False,False,False,False,False,True,True
+Casa,Bairu,220.0,3.0,4.0,2.0,480000,,False,True,False,False,False,False,False,False,False,False
+Casa,Bairu,150.0,3.0,2.0,2.0,750000,,True,False,False,False,True,False,False,False,False,False
+Casa,Bairu,96.0,3.0,1.0,1.0,340000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bairu,150.0,3.0,3.0,3.0,985000,,False,False,True,False,False,False,False,True,False,True
+Casa,Bairu,210.0,3.0,2.0,2.0,450000,,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bairu,100.0,3.0,1.0,2.0,350000,350.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,68.0,2.0,2.0,1.0,280000,300.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Bairu,85.0,2.0,3.0,1.0,245000,290.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,55.0,2.0,2.0,1.0,299000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,85.0,2.0,1.0,1.0,239000,280.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bairu,85.0,2.0,2.0,,249000,280.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bairu,69.0,2.0,2.0,1.0,289000,150.0,True,False,False,True,True,False,False,True,False,False
+Apartamento,Bairu,69.0,2.0,2.0,1.0,289000,150.0,False,False,False,True,True,False,False,True,True,False
+Apartamento,Bairu,70.0,2.0,1.0,1.0,259999,,False,False,False,False,True,False,False,False,False,False
+Apartamento,Bairu,65.0,2.0,2.0,1.0,319000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,69.0,2.0,2.0,1.0,289000,150.0,True,True,False,True,True,False,False,True,False,False
+Apartamento,Bairu,87.0,2.0,3.0,1.0,245000,249.0,True,False,False,False,False,False,False,False,True,True
+Apartamento,Bairu,73.0,2.0,2.0,1.0,349000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,66.0,2.0,2.0,1.0,290000,275.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,80.0,2.0,1.0,1.0,350000,266.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,78.0,2.0,2.0,1.0,280000,,True,False,False,True,True,False,False,True,False,False
+Apartamento,Bairu,93.0,3.0,1.0,1.0,260000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,73.0,2.0,2.0,1.0,319000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,65.0,2.0,2.0,1.0,295000,200.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Bairu,75.0,2.0,2.0,1.0,285000,270.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Bairu,80.0,1.0,1.0,1.0,160000,200.0,True,True,False,False,False,False,True,False,False,False
+Apartamento,Bairu,68.0,2.0,2.0,1.0,289000,,True,True,False,True,True,False,False,False,False,False
+Apartamento,Bairu,10.0,2.0,2.0,1.0,280000,305.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,87.0,2.0,2.0,1.0,249900,250.0,True,False,False,False,True,False,True,False,False,True
+Apartamento,Bairu,70.0,2.0,1.0,1.0,299000,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Bairu,69.0,2.0,1.0,1.0,289000,150.0,True,False,False,True,True,False,False,True,False,False
+Apartamento,Bairu,84.0,2.0,2.0,1.0,249000,100.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,75.0,2.0,2.0,,325000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,70.0,2.0,2.0,1.0,349000,,False,False,False,True,True,False,False,False,False,False
+Apartamento,Bairu,87.0,3.0,2.0,1.0,345000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,82.0,2.0,2.0,1.0,199900,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bairu,95.0,2.0,2.0,1.0,280000,280.0,True,False,False,True,True,False,False,False,False,False
+Apartamento,Bairu,72.0,2.0,2.0,,319000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,55.0,2.0,1.0,1.0,120000,260.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,60.0,2.0,1.0,1.0,170000,250.0,True,True,False,False,False,False,True,False,False,True
+Apartamento,Bandeirantes,75.0,2.0,2.0,1.0,319900,250.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Bandeirantes,97.0,2.0,2.0,1.0,230000,147.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Bandeirantes,54.0,2.0,1.0,1.0,175000,260.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,44.0,2.0,1.0,1.0,175000,,True,False,True,True,False,True,False,False,False,False
+Apartamento,Bandeirantes,45.0,2.0,1.0,1.0,225000,,False,True,True,True,False,False,True,False,False,False
+Apartamento,Bandeirantes,75.0,2.0,1.0,1.0,149000,140.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,85.0,2.0,2.0,1.0,280000,241.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,90.0,2.0,2.0,1.0,200000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,58.0,2.0,1.0,1.0,170000,260.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,40.0,1.0,1.0,1.0,199000,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,58.0,2.0,1.0,1.0,170000,260.0,True,False,True,False,False,False,True,False,False,True
+Apartamento,Bandeirantes,70.0,3.0,1.0,1.0,165000,180.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,62.0,2.0,1.0,1.0,200000,300.0,True,False,False,True,True,False,False,False,False,True
+Apartamento,Bandeirantes,80.0,3.0,1.0,1.0,260000,205.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,50.0,1.0,1.0,,139000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,68.0,2.0,1.0,1.0,170000,200.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,68.0,2.0,1.0,1.0,185000,45.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,75.0,2.0,1.0,1.0,320000,250.0,False,False,True,False,False,False,False,True,False,False
+Apartamento,Bandeirantes,90.0,2.0,1.0,1.0,250000,10.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,67.0,2.0,2.0,1.0,250000,200.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,70.0,2.0,1.0,1.0,275000,250.0,True,True,False,False,True,False,True,True,False,False
+Apartamento,Bandeirantes,57.0,2.0,1.0,1.0,175000,120.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,50.0,2.0,1.0,1.0,170000,200.0,True,False,False,True,False,True,True,False,False,False
+Apartamento,Bandeirantes,58.0,1.0,1.0,1.0,199000,199.0,True,False,False,True,True,False,False,False,False,False
+Apartamento,Bandeirantes,90.0,3.0,2.0,1.0,290000,260.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Bandeirantes,80.0,3.0,2.0,1.0,250000,250.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,55.0,2.0,1.0,2.0,200000,298.0,True,False,False,True,True,False,False,False,True,False
+Apartamento,Bandeirantes,100.0,3.0,2.0,2.0,349000,278.0,True,True,False,False,True,False,False,True,False,False
+Apartamento,Bandeirantes,84.0,3.0,1.0,1.0,240000,,False,False,False,False,False,False,False,False,True,False
+Apartamento,Bandeirantes,62.0,2.0,1.0,2.0,169900,160.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,90.0,3.0,1.0,1.0,210000,160.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Bandeirantes,65.0,2.0,1.0,1.0,145000,150.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Bandeirantes,89.0,2.0,2.0,1.0,290000,230.0,True,True,False,True,True,False,False,False,False,False
+Casa,Bandeirantes,62.0,2.0,1.0,1.0,260000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,169.0,5.0,3.0,2.0,615000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,107.0,3.0,2.0,1.0,380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,160.0,2.0,1.0,,340000,,False,False,False,False,False,False,False,False,False,True
+Casa,Bandeirantes,90.0,3.0,1.0,,450000,,True,True,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,180.0,4.0,3.0,1.0,880000,,True,False,False,False,True,False,False,True,False,False
+Casa,Bandeirantes,152.0,3.0,3.0,2.0,779000,,True,False,True,False,False,True,False,True,False,True
+Casa,Bandeirantes,90.0,3.0,2.0,,450000,,True,True,False,False,False,False,False,False,False,True
+Casa,Bandeirantes,290.0,3.0,4.0,2.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,130.0,2.0,1.0,,395000,,True,False,False,False,True,False,False,False,False,True
+Casa,Bandeirantes,300.0,7.0,6.0,1.0,600000,,True,True,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,1068.0,6.0,6.0,3.0,990000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,200.0,6.0,1.0,1.0,320000,,True,False,False,False,True,False,False,True,True,False
+Casa,Bandeirantes,90.0,2.0,3.0,1.0,390000,400.0,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,300.0,5.0,4.0,3.0,980000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,300.0,3.0,3.0,3.0,600000,,False,True,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,76.0,2.0,1.0,1.0,380000,415.0,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,176.0,4.0,3.0,1.0,880000,,True,True,False,False,False,True,False,False,False,True
+Casa,Bandeirantes,160.0,2.0,2.0,,340000,,True,True,False,False,True,False,False,True,False,True
+Casa,Bandeirantes,350.0,4.0,3.0,2.0,450000,1.0,False,False,False,False,True,False,False,False,False,False
+Casa,Bandeirantes,107.0,3.0,2.0,1.0,355000,,True,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,394.0,3.0,2.0,9.0,780000,,True,True,False,False,True,False,False,True,False,True
+Casa,Bandeirantes,152.0,3.0,2.0,2.0,779000,,True,False,True,False,True,True,False,False,False,False
+Casa,Bandeirantes,250.0,3.0,2.0,2.0,600000,1.0,True,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,481.0,3.0,2.0,,800000,,True,False,True,False,False,False,False,True,False,True
+Casa,Bandeirantes,80.0,3.0,1.0,,310000,,True,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,107.0,3.0,2.0,1.0,355000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,90.0,2.0,1.0,1.0,390000,175.0,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,401.0,6.0,6.0,4.0,1150000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,150.0,2.0,1.0,,340000,1.0,True,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,550.0,3.0,3.0,,550000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bandeirantes,401.0,5.0,6.0,3.0,1149000,,True,True,True,False,True,False,False,True,False,True
+Casa,Bandeirantes,401.0,5.0,6.0,8.0,1149000,,True,False,True,False,False,False,False,False,False,True
+Casa,Bandeirantes,139.0,2.0,1.0,,800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,200.0,5.0,4.0,3.0,389900,,True,False,False,False,False,False,False,False,False,False
+Casa,Centro,146.0,3.0,4.0,8.0,695000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,134.0,2.0,2.0,1.0,190000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,180.0,4.0,3.0,1.0,480000,50.0,True,True,False,False,False,False,False,False,False,False
+Casa,Centro,332.0,5.0,3.0,3.0,880000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,132.0,2.0,2.0,,309000,,True,True,True,False,True,False,False,True,False,True
+Casa,Centro,340.0,4.0,3.0,3.0,880000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,80.0,2.0,2.0,1.0,280000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,360.0,5.0,3.0,3.0,880000,10.0,True,True,False,False,False,False,False,False,False,False
+Casa,Centro,407.0,5.0,4.0,3.0,1850000,,False,False,True,False,False,False,False,True,False,False
+Casa,Centro,180.0,4.0,2.0,,300000,,False,False,False,False,True,False,False,False,False,False
+Casa,Centro,174.0,4.0,3.0,,870000,,True,False,False,False,True,False,False,False,False,False
+Casa,Centro,338.0,6.0,3.0,4.0,1378000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,130.0,2.0,1.0,1.0,350000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,338.0,6.0,4.0,5.0,1395000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,200.0,4.0,3.0,1.0,600000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,240.0,3.0,1.0,,400000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,224.0,3.0,2.0,2.0,1600000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,40.0,1.0,1.0,,320000,,False,False,True,False,False,False,False,True,False,False
+Casa,Centro,350.0,4.0,6.0,2.0,1400000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,90.0,3.0,1.0,3.0,600000,,False,True,False,False,False,False,False,False,False,False
+Casa,Centro,356.0,5.0,1.0,3.0,880000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,312.0,3.0,3.0,1.0,1380000,,True,False,False,False,True,False,False,True,True,False
+Casa,Centro,312.0,3.0,3.0,1.0,1380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,178.0,3.0,3.0,4.0,899000,,False,False,False,False,True,False,False,True,False,True
+Casa,Centro,240.0,4.0,4.0,1.0,750000,,True,False,False,False,False,False,False,False,False,False
+Casa,Centro,210.0,3.0,2.0,1.0,780000,,True,True,False,False,False,False,False,False,False,False
+Casa,Centro,198.0,3.0,3.0,1.0,1380000,,True,False,False,False,False,False,False,False,False,False
+Casa,Centro,160.0,3.0,2.0,,700000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,350.0,4.0,5.0,,1450000,,False,True,False,False,False,False,False,False,False,False
+Casa,Centro,120.0,4.0,4.0,,450000,,True,True,False,False,False,False,False,False,False,False
+Casa,Centro,250.0,4.0,2.0,3.0,1500000,,False,False,False,False,False,False,False,False,False,False
+Casa,Centro,257.0,4.0,4.0,2.0,1500000,,False,False,True,False,False,False,False,True,False,True
+Casa,Centro,332.0,5.0,3.0,3.0,880000,,False,True,False,False,True,False,False,False,False,True
+Casa,Centro,330.0,5.0,3.0,3.0,880000,,True,True,True,False,False,False,False,False,False,True
+Casa,Centro,200.0,4.0,2.0,1.0,2199000,,False,True,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,78.0,2.0,1.0,,299000,,True,False,False,False,False,False,True,False,True,False
+Apartamento,Alto dos Passos,108.0,2.0,3.0,1.0,325000,385.0,False,True,False,True,False,False,False,False,False,False
+Apartamento,Alto dos Passos,84.0,2.0,2.0,,249000,220.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,68.0,2.0,1.0,1.0,290000,300.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,55.0,2.0,2.0,1.0,300000,,False,False,True,False,True,True,False,True,False,False
+Apartamento,Alto dos Passos,136.0,3.0,3.0,2.0,1068107,1000.0,True,False,False,True,True,True,False,True,False,False
+Apartamento,Alto dos Passos,72.0,2.0,1.0,1.0,250000,196.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,95.0,2.0,2.0,1.0,319990,307.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Alto dos Passos,83.0,2.0,2.0,1.0,180000,250.0,True,False,False,False,False,False,True,False,True,False
+Apartamento,Alto dos Passos,70.0,2.0,2.0,1.0,470000,500.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Alto dos Passos,60.0,2.0,2.0,1.0,290000,,False,False,False,False,False,False,False,False,True,True
+Apartamento,Alto dos Passos,68.0,2.0,1.0,1.0,229900,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,42.0,1.0,1.0,1.0,260000,380.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,Alto dos Passos,60.0,2.0,1.0,1.0,228290,280.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,93.0,2.0,2.0,1.0,320000,300.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Alto dos Passos,137.0,3.0,3.0,2.0,765000,520.0,False,False,True,True,True,True,False,False,False,False
+Apartamento,Alto dos Passos,119.0,3.0,3.0,2.0,350000,350.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,70.0,2.0,2.0,2.0,269900,,False,True,False,False,False,False,True,False,False,False
+Apartamento,Alto dos Passos,100.0,2.0,3.0,1.0,349000,900.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Alto dos Passos,86.0,2.0,3.0,2.0,709670,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,113.0,3.0,2.0,1.0,620000,531.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Alto dos Passos,55.0,2.0,2.0,1.0,290000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,100.0,2.0,3.0,1.0,409000,559.0,True,False,False,True,True,False,True,False,False,False
+Apartamento,Alto dos Passos,89.0,2.0,2.0,2.0,499000,473.0,False,False,False,True,False,True,False,True,False,False
+Apartamento,Alto dos Passos,113.0,3.0,2.0,1.0,620000,540.0,True,True,False,True,True,False,True,False,False,False
+Apartamento,Alto dos Passos,80.0,2.0,2.0,1.0,285000,292.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,112.0,3.0,1.0,1.0,450000,596.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Alto dos Passos,55.0,2.0,1.0,1.0,229900,280.0,True,True,False,False,True,False,False,False,True,False
+Apartamento,Alto dos Passos,85.0,3.0,2.0,1.0,669000,,True,False,False,True,True,False,False,True,False,False
+Apartamento,Alto dos Passos,86.0,2.0,3.0,2.0,790500,,False,False,True,True,False,True,True,False,False,False
+Apartamento,Alto dos Passos,100.0,3.0,2.0,1.0,429000,535.0,False,True,False,False,False,False,True,False,False,False
+Apartamento,Alto dos Passos,60.0,2.0,1.0,1.0,229900,1.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Alto dos Passos,70.0,2.0,2.0,1.0,350000,500.0,True,True,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,596.0,4.0,4.0,2.0,999000,,True,False,False,False,True,False,False,True,False,False
+Casa,Alto dos Passos,288.0,9.0,3.0,3.0,899000,,False,False,False,False,False,False,False,False,True,False
+Casa,Alto dos Passos,136.0,3.0,2.0,2.0,460000,,True,False,False,False,True,False,False,False,False,True
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,True,False,False,False,True,False,True,True,True,False
+Casa,Alto dos Passos,160.0,4.0,5.0,3.0,900000,,False,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,94.0,4.0,2.0,2.0,695000,,False,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,131.0,4.0,2.0,2.0,600000,,False,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,True,True,False,False,False,False,False,False,False,True
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,False,False,False,False,False,False,False,False,True,False
+Casa,Alto dos Passos,140.0,4.0,2.0,2.0,700000,,False,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,338.0,3.0,4.0,3.0,2000000,,False,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,100.0,5.0,4.0,1.0,630000,,True,False,False,False,False,False,True,False,False,False
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,True,False,False,False,False,False,False,True,False,True
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,False,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,338.0,3.0,4.0,2.0,1389000,,True,False,True,False,True,True,False,False,False,True
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,True,False,False,False,True,False,False,True,False,False
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,True,True,False,False,True,False,False,True,False,False
+Casa,Alto dos Passos,288.0,9.0,5.0,2.0,899000,,True,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,200.0,3.0,4.0,1.0,987000,,True,True,True,False,False,False,False,True,False,True
+Casa,Alto dos Passos,200.0,3.0,2.0,3.0,730000,,False,True,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,596.0,4.0,4.0,2.0,1350000,,True,True,True,False,False,False,False,False,False,False
+Casa,Alto dos Passos,338.0,3.0,4.0,3.0,2000000,,False,False,False,False,False,False,False,False,False,False
+Casa,Alto dos Passos,331.0,3.0,4.0,3.0,2000000,1.0,True,False,True,False,True,True,False,False,False,True
+Casa,Alto dos Passos,160.0,6.0,2.0,,1600000,,True,False,False,False,True,False,False,False,False,False
+Casa,Alto dos Passos,338.0,3.0,4.0,2.0,1390000,,True,False,True,False,False,True,False,False,False,True
+Casa,Alto dos Passos,264.0,4.0,2.0,2.0,700000,,False,False,True,False,False,False,False,False,False,True
+Casa,Alto dos Passos,230.0,3.0,2.0,4.0,900000,1.0,True,True,True,False,True,False,False,True,False,True
+Casa,Democrata,220.0,3.0,2.0,2.0,400000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,100.0,2.0,3.0,2.0,539900,850.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Cascatinha,76.0,3.0,2.0,1.0,250000,200.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,75.0,2.0,1.0,1.0,220000,255.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,173.0,3.0,3.0,2.0,895000,900.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,108.0,2.0,3.0,1.0,270000,295.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Cascatinha,127.0,3.0,3.0,2.0,525000,422.0,True,True,False,True,True,False,True,False,False,False
+Apartamento,Cascatinha,138.0,2.0,3.0,2.0,599000,,True,False,False,True,True,False,False,False,False,False
+Apartamento,Cascatinha,54.0,2.0,2.0,1.0,275000,300.0,True,False,False,False,False,True,False,False,False,True
+Apartamento,Cascatinha,133.0,3.0,3.0,1.0,498000,260.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Granbery,65.0,2.0,1.0,1.0,289000,350.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Granbery,52.0,2.0,2.0,1.0,269000,,False,False,False,True,True,False,False,False,False,False
+Apartamento,Granbery,64.0,2.0,2.0,1.0,382741,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,123.0,3.0,3.0,1.0,645000,731.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Granbery,62.0,2.0,2.0,1.0,339000,377.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,54.0,2.0,1.0,1.0,549000,,False,False,True,True,False,True,False,True,False,False
+Apartamento,Granbery,65.0,2.0,2.0,,179000,250.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,92.0,2.0,2.0,2.0,499000,150.0,False,False,True,True,True,True,False,False,False,False
+Apartamento,Granbery,173.0,2.0,2.0,2.0,782405,550.0,False,False,True,True,True,True,False,False,False,False
+Apartamento,Granbery,70.0,2.0,2.0,2.0,520000,271.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,Granbery,120.0,3.0,2.0,2.0,470000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,55.0,2.0,3.0,1.0,339000,339.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granbery,85.0,2.0,2.0,2.0,636992,310.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Granbery,70.0,2.0,1.0,1.0,250000,230.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Granbery,73.0,2.0,2.0,2.0,485145,,False,False,False,True,False,False,False,False,False,False
+Casa,Santa Luzia,75.0,2.0,1.0,,170000,,True,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,110.0,3.0,3.0,2.0,380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,234.0,3.0,3.0,2.0,370000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,110.0,3.0,3.0,4.0,380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,65.0,1.0,1.0,,180000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,80.0,2.0,1.0,,160000,,True,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,98.0,3.0,1.0,1.0,300000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,72.0,3.0,4.0,2.0,499000,,True,False,True,False,True,False,False,False,False,True
+Casa,Santa Luzia,72.0,3.0,3.0,2.0,469000,,True,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,308.0,3.0,2.0,3.0,450000,,False,False,True,False,False,False,False,False,False,False
+Casa,Santa Luzia,75.0,2.0,1.0,,170000,,False,False,False,False,True,False,False,True,False,False
+Casa,Santa Luzia,150.0,4.0,1.0,,350000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,75.0,3.0,3.0,2.0,499000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,120.0,3.0,3.0,1.0,300000,,False,True,True,False,False,False,False,False,False,False
+Casa,Santa Luzia,289.0,3.0,2.0,2.0,420000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,90.0,2.0,2.0,,180000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,63.0,2.0,1.0,,93505,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,70.0,3.0,1.0,1.0,279000,,True,False,False,False,False,False,False,False,False,True
+Casa,Santa Luzia,77.0,3.0,2.0,1.0,450000,,False,False,True,False,False,False,False,True,False,False
+Casa,Santa Luzia,93.0,2.0,2.0,,400000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,70.0,2.0,2.0,1.0,250000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,70.0,1.0,1.0,,110000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,107.0,2.0,2.0,,339990,,False,False,False,False,True,False,False,True,False,True
+Casa,Santa Luzia,183.0,3.0,2.0,,138000,,False,True,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,150.0,4.0,4.0,2.0,700000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,230.0,3.0,3.0,1.0,349900,,False,True,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,95.0,3.0,1.0,,180000,,False,True,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,250.0,2.0,3.0,,238900,,True,True,True,False,True,False,False,True,False,False
+Casa,Santa Luzia,71.0,2.0,2.0,,320000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,98.0,3.0,3.0,1.0,300000,,False,True,True,False,False,False,False,False,False,True
+Casa,Santa Luzia,332.0,6.0,7.0,,1497000,,False,False,False,False,True,True,False,True,False,True
+Casa,Santa Luzia,112.0,3.0,1.0,,190000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Luzia,70.0,2.0,1.0,,155000,,True,True,False,False,True,False,False,False,False,False
+Casa,Santa Luzia,109.0,3.0,4.0,1.0,430000,,False,True,True,False,True,False,False,False,False,False
+Casa,Santa Luzia,200.0,4.0,3.0,2.0,489000,,False,False,False,False,True,False,False,True,False,True
+Casa,Santa Luzia,140.0,4.0,4.0,2.0,650000,,True,False,False,False,True,False,False,True,False,True
+Apartamento,Santa Luzia,110.0,2.0,2.0,2.0,380000,,True,False,True,False,False,False,False,True,True,False
+Apartamento,Santa Luzia,80.0,2.0,1.0,1.0,210000,,False,False,False,False,False,False,True,False,True,False
+Apartamento,Santa Luzia,80.0,2.0,1.0,1.0,210000,,True,False,False,False,False,False,True,False,True,False
+Apartamento,Santa Luzia,93.0,3.0,2.0,,290000,110.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Santa Luzia,80.0,2.0,1.0,,210000,,False,False,False,False,False,False,True,False,True,False
+Apartamento,Santa Luzia,35.0,1.0,1.0,1.0,340000,285.0,False,False,False,True,False,True,False,False,False,False
+Apartamento,Santa Luzia,80.0,2.0,3.0,1.0,549000,330.0,False,False,False,True,True,False,False,False,True,False
+Apartamento,Santa Luzia,92.0,3.0,2.0,1.0,225000,371.0,True,False,True,False,False,True,False,False,False,True
+Apartamento,Santa Luzia,75.0,3.0,2.0,3.0,230000,100.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,92.0,3.0,2.0,,290000,270.0,True,True,True,False,False,True,False,False,False,False
+Apartamento,Santa Luzia,115.0,3.0,2.0,,230000,150.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,56.0,2.0,1.0,1.0,150000,248.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,56.0,2.0,1.0,1.0,159000,249.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,92.0,3.0,2.0,1.0,250000,370.0,False,True,True,False,True,True,True,False,False,False
+Apartamento,Santa Luzia,55.0,3.0,1.0,1.0,250000,371.0,True,False,True,False,False,True,True,True,False,False
+Apartamento,Santa Luzia,80.0,2.0,1.0,1.0,210000,160.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,80.0,2.0,1.0,1.0,210000,160.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,86.0,2.0,2.0,1.0,280000,360.0,False,False,False,False,False,True,False,False,False,False
+Apartamento,Santa Luzia,92.0,3.0,2.0,1.0,285000,205.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,120.0,3.0,2.0,2.0,961000,,False,False,False,True,True,False,False,True,False,False
+Apartamento,Santa Luzia,10.0,3.0,1.0,1.0,228718,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,43.0,2.0,1.0,1.0,120000,160.0,False,False,True,False,False,False,True,True,False,True
+Apartamento,Santa Luzia,62.0,2.0,1.0,1.0,140000,110.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,56.0,2.0,1.0,1.0,159000,239.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,95.0,2.0,2.0,1.0,280000,254.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,92.0,3.0,1.0,1.0,280000,370.0,False,False,False,False,False,False,False,True,False,False
+Apartamento,Santa Luzia,80.0,2.0,2.0,1.0,275000,130.0,False,False,False,False,False,False,True,False,False,False
+Apartamento,Santa Luzia,48.0,2.0,1.0,1.0,150000,189.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,80.0,2.0,1.0,1.0,210000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,92.0,3.0,1.0,1.0,280000,370.0,False,False,False,False,False,True,False,True,False,False
+Apartamento,Santa Luzia,48.0,2.0,1.0,,130000,174.0,False,True,False,False,False,False,True,False,False,False
+Apartamento,Santa Luzia,93.0,3.0,2.0,,290000,110.0,True,True,False,False,False,False,False,False,True,False
+Apartamento,Santa Luzia,60.0,2.0,1.0,1.0,210000,160.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Santa Luzia,65.0,2.0,1.0,,180000,,False,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Luzia,95.0,3.0,2.0,1.0,239000,200.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Estrela Sul,71.0,2.0,3.0,1.0,280000,300.0,True,False,True,True,True,True,False,False,False,False
+Apartamento,Estrela Sul,71.0,2.0,2.0,1.0,250000,314.0,False,False,True,False,False,True,False,True,False,False
+Apartamento,Estrela Sul,78.0,2.0,2.0,2.0,629900,680.0,True,False,True,True,False,True,False,False,False,False
+Apartamento,Estrela Sul,71.0,2.0,2.0,1.0,255000,276.0,False,False,False,False,False,False,False,True,False,False
+Apartamento,Estrela Sul,80.0,2.0,2.0,1.0,549000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Estrela Sul,70.0,3.0,2.0,1.0,310000,350.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Estrela Sul,86.0,3.0,2.0,1.0,299000,363.0,True,False,True,True,True,True,False,False,False,False
+Apartamento,Estrela Sul,71.0,2.0,2.0,1.0,280000,260.0,False,False,True,True,False,False,True,True,False,False
+Apartamento,Estrela Sul,180.0,3.0,3.0,2.0,880000,440.0,True,False,True,True,True,True,False,False,False,False
+Apartamento,Estrela Sul,116.0,3.0,3.0,2.0,870000,670.0,False,False,True,True,False,True,False,True,False,False
+Apartamento,Estrela Sul,119.0,3.0,1.0,2.0,699000,524.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Estrela Sul,86.0,3.0,2.0,1.0,335000,330.0,True,False,True,True,False,False,True,False,False,False
+Apartamento,Estrela Sul,74.0,3.0,2.0,1.0,339000,350.0,True,False,True,False,False,True,True,False,False,False
+Apartamento,Estrela Sul,69.0,2.0,1.0,1.0,190000,360.0,True,False,True,False,False,True,True,True,False,False
+Apartamento,Estrela Sul,115.0,3.0,4.0,2.0,879570,1.0,True,True,True,True,True,False,False,False,False,False
+Apartamento,Estrela Sul,80.0,1.0,1.0,1.0,395000,250.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Estrela Sul,87.0,2.0,3.0,2.0,692000,240.0,True,False,True,True,False,True,False,True,False,False
+Apartamento,Estrela Sul,70.0,2.0,2.0,1.0,549000,330.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Estrela Sul,120.0,3.0,1.0,2.0,890000,440.0,True,False,True,True,True,True,False,False,False,False
+Apartamento,Estrela Sul,180.0,3.0,3.0,2.0,880000,440.0,False,False,False,False,True,True,False,True,False,True
+Apartamento,Estrela Sul,70.0,3.0,2.0,1.0,335000,260.0,False,False,True,True,True,True,True,False,False,False
+Apartamento,Estrela Sul,70.0,2.0,2.0,1.0,275000,317.0,True,False,True,True,False,True,True,False,False,False
+Apartamento,Estrela Sul,78.0,2.0,2.0,2.0,629900,,False,False,True,True,True,True,False,False,False,False
+Apartamento,Estrela Sul,86.0,2.0,3.0,2.0,702572,,False,False,True,False,True,True,False,True,False,False
+Apartamento,Estrela Sul,115.0,3.0,4.0,2.0,949935,550.0,False,False,False,True,False,False,True,False,False,False
+Apartamento,Estrela Sul,76.0,2.0,2.0,2.0,629900,1.0,False,False,True,True,False,True,True,True,False,False
+Apartamento,Estrela Sul,82.0,2.0,2.0,1.0,589000,330.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Estrela Sul,69.0,1.0,1.0,1.0,289000,372.0,True,False,False,True,False,False,False,True,False,False
+Apartamento,Estrela Sul,70.0,3.0,2.0,1.0,320000,321.0,False,False,True,True,False,True,True,True,False,False
+Apartamento,Estrela Sul,80.0,2.0,1.0,1.0,549000,250.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Estrela Sul,71.0,2.0,2.0,1.0,249500,314.0,True,True,True,True,False,True,False,False,False,False
+Apartamento,Estrela Sul,78.0,2.0,1.0,2.0,629900,,False,False,True,False,False,True,False,True,False,False
+Apartamento,Estrela Sul,30.0,1.0,1.0,1.0,220000,296.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Estrela Sul,87.0,2.0,3.0,2.0,619250,,True,True,False,True,True,True,False,True,False,False
+Casa,Estrela Sul,157.0,3.0,3.0,2.0,890000,,False,False,False,False,False,False,False,False,False,False
+Casa,Estrela Sul,320.0,2.0,4.0,2.0,890000,,False,False,False,False,False,False,False,False,False,False
+Casa,Estrela Sul,157.0,3.0,2.0,4.0,890000,,False,False,False,False,True,True,False,True,False,False
+Casa,Estrela Sul,157.0,3.0,3.0,2.0,890000,,False,False,True,False,False,True,False,True,False,True
+Casa,Estrela Sul,400.0,5.0,1.0,2.0,2891501,,False,False,False,False,False,True,True,False,False,False
+Casa,Estrela Sul,640.0,4.0,7.0,3.0,3950000,440.0,True,True,False,False,False,False,True,True,False,True
+Casa,Estrela Sul,450.0,3.0,5.0,4.0,3500000,480.0,False,False,False,False,False,False,True,False,False,False
+Casa,Estrela Sul,325.0,4.0,6.0,3.0,2650000,450.0,False,True,False,False,True,False,False,True,False,False
+Casa,Estrela Sul,450.0,3.0,5.0,4.0,3500000,480.0,False,False,True,False,True,True,True,False,False,False
+Casa,Estrela Sul,450.0,4.0,5.0,4.0,3500000,480.0,True,False,True,False,False,True,True,False,False,True
+Casa,Estrela Sul,325.0,4.0,6.0,3.0,2650000,450.0,False,True,False,False,True,True,True,True,False,True
+Casa,Estrela Sul,557.0,5.0,6.0,8.0,2500000,450.0,True,False,True,False,False,True,False,False,False,True
+Casa,Estrela Sul,480.0,4.0,7.0,4.0,3490000,440.0,True,True,False,False,False,False,False,False,False,False
+Casa,Estrela Sul,381.0,4.0,5.0,5.0,3400000,482.0,False,False,False,False,False,False,True,False,False,False
+Casa,Estrela Sul,450.0,5.0,3.0,8.0,2499480,1.0,True,False,True,False,False,True,False,True,False,False
+Casa,Estrela Sul,157.0,3.0,3.0,2.0,879000,,True,True,False,False,True,True,False,True,False,True
+Casa,Estrela Sul,640.0,4.0,7.0,6.0,3950000,440.0,True,False,True,False,False,True,True,False,False,False
+Casa,Estrela Sul,451.0,4.0,6.0,4.0,5990000,482.0,True,False,True,False,False,True,True,True,False,False
+Casa,Estrela Sul,445.0,4.0,5.0,6.0,3680000,510.0,True,False,True,False,False,True,False,True,False,False
+Casa,Estrela Sul,400.0,5.0,3.0,2.0,2890000,350.0,False,False,False,False,False,True,False,False,False,False
+Casa,Estrela Sul,752.0,4.0,5.0,16.0,5990000,482.0,False,False,False,False,False,False,False,False,False,False
+Casa,Estrela Sul,350.0,5.0,3.0,4.0,2890000,440.0,False,False,True,False,False,True,False,True,False,False
+Casa,Estrela Sul,325.0,4.0,7.0,2.0,2650000,450.0,False,True,False,False,True,False,False,False,False,False
+Casa,Estrela Sul,557.0,5.0,6.0,8.0,2499000,,True,False,True,False,False,True,False,False,False,True
+Casa,Estrela Sul,445.0,4.0,5.0,6.0,3680000,462.0,False,False,False,False,False,False,False,False,False,False
+Casa,Estrela Sul,752.0,4.0,6.0,4.0,5990000,482.0,True,True,False,False,True,False,False,False,False,True
+Casa,Estrela Sul,489.0,5.0,6.0,5.0,2500000,440.0,False,False,True,False,False,True,True,True,False,False
+Casa,Estrela Sul,640.0,4.0,6.0,,3590000,440.0,True,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,91.0,2.0,1.0,1.0,100000,,True,False,False,False,True,False,False,True,False,False
+Casa,Teixeiras,372.0,7.0,6.0,3.0,950000,,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,91.0,2.0,1.0,1.0,170000,,True,False,False,False,True,False,False,True,False,False
+Casa,Teixeiras,320.0,3.0,3.0,2.0,1200000,,False,False,True,False,False,False,False,True,False,False
+Casa,Teixeiras,180.0,2.0,1.0,2.0,495000,,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,130.0,2.0,2.0,2.0,495000,,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,100.0,2.0,1.0,2.0,495000,,False,False,False,False,False,False,False,False,False,True
+Casa,Teixeiras,120.0,3.0,3.0,3.0,600000,,True,True,True,False,False,False,False,False,False,False
+Casa,Teixeiras,100.0,2.0,1.0,2.0,495000,,False,False,False,False,False,False,False,True,False,False
+Casa,Teixeiras,120.0,2.0,2.0,1.0,360000,,True,True,False,False,True,False,False,True,False,False
+Casa,Teixeiras,180.0,2.0,2.0,2.0,495000,,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,377.0,3.0,5.0,4.0,2500000,1.0,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,110.0,2.0,1.0,1.0,360000,,True,True,False,False,True,False,False,True,False,False
+Casa,Teixeiras,200.0,3.0,5.0,3.0,1200000,,True,False,False,False,False,True,False,True,False,True
+Casa,Teixeiras,253.0,6.0,3.0,2.0,800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,100.0,2.0,2.0,2.0,495000,,True,True,False,False,True,False,False,True,False,True
+Casa,Teixeiras,130.0,2.0,2.0,2.0,495000,,False,False,True,False,False,False,False,False,False,True
+Casa,Teixeiras,300.0,4.0,2.0,,400000,,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,105.0,2.0,2.0,,495000,,False,False,False,False,False,False,False,False,False,False
+Casa,Teixeiras,200.0,3.0,3.0,4.0,2200000,,False,False,True,False,False,True,False,False,False,True
+Casa,Teixeiras,129.0,3.0,4.0,1.0,750000,1.0,False,True,True,False,True,False,False,False,False,True
+Casa,Teixeiras,158.0,4.0,4.0,2.0,850000,,False,True,False,False,False,False,False,False,False,False
+Casa,Teixeiras,250.0,3.0,2.0,2.0,690000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,56.0,2.0,1.0,1.0,280815,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,67.0,3.0,1.0,1.0,199000,210.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,56.0,2.0,1.0,,247752,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,85.0,2.0,2.0,1.0,310000,211.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,72.0,2.0,2.0,1.0,259900,273.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Teixeiras,100.0,3.0,2.0,2.0,450000,320.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Teixeiras,55.0,2.0,2.0,1.0,299000,380.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,68.0,2.0,2.0,1.0,250000,222.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Teixeiras,55.0,2.0,1.0,1.0,289000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,60.0,2.0,2.0,1.0,355000,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Teixeiras,140.0,2.0,1.0,,247752,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,85.0,2.0,2.0,1.0,310000,212.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Teixeiras,55.0,2.0,2.0,1.0,285000,259.0,True,False,True,True,False,True,False,False,False,False
+Apartamento,Teixeiras,50.0,2.0,1.0,1.0,296800,170.0,True,False,False,False,False,False,True,False,True,False
+Apartamento,Teixeiras,56.0,2.0,1.0,,247752,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,78.0,2.0,1.0,,255000,215.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,68.0,3.0,2.0,1.0,489900,380.0,True,True,True,True,False,True,False,False,False,False
+Apartamento,Teixeiras,80.0,2.0,1.0,1.0,255000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,68.0,3.0,2.0,1.0,489900,380.0,False,False,True,True,False,True,False,True,False,False
+Apartamento,Teixeiras,65.0,2.0,1.0,1.0,280000,250.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,Teixeiras,65.0,2.0,1.0,1.0,294990,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Teixeiras,84.0,2.0,2.0,1.0,380000,293.0,True,True,False,True,True,False,False,False,False,False
+Apartamento,Teixeiras,70.0,2.0,1.0,1.0,229000,,True,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,63.0,2.0,1.0,1.0,155000,220.0,True,False,False,True,False,False,False,False,False,True
+Apartamento,Teixeiras,110.0,3.0,3.0,2.0,660000,100.0,False,False,False,True,True,False,False,False,True,False
+Apartamento,Teixeiras,125.0,3.0,3.0,2.0,630000,90.0,False,True,False,True,False,False,False,False,False,False
+Apartamento,Teixeiras,56.0,2.0,1.0,,247280,200.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Teixeiras,86.0,3.0,1.0,2.0,560000,,True,True,False,True,True,False,False,False,False,False
+Apartamento,Teixeiras,56.0,2.0,1.0,1.0,280815,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Teixeiras,56.0,2.0,1.0,1.0,247752,,False,False,False,True,True,False,False,False,False,False
+Apartamento,Teixeiras,115.0,2.0,2.0,1.0,235000,220.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Teixeiras,65.0,2.0,1.0,1.0,254901,,False,True,False,True,True,False,False,False,False,False
+Apartamento,Teixeiras,210.0,4.0,4.0,3.0,1090000,380.0,True,False,False,True,True,False,False,True,False,False
+Apartamento,Teixeiras,110.0,3.0,2.0,1.0,480000,330.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Teixeiras,50.0,2.0,1.0,1.0,165000,220.0,True,False,False,True,False,False,True,False,False,True
+Apartamento,Jardim Glória,69.0,2.0,2.0,1.0,274000,200.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,80.0,2.0,2.0,1.0,260000,230.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,70.0,2.0,1.0,1.0,270000,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,83.0,3.0,2.0,1.0,350000,570.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Jardim Glória,83.0,3.0,2.0,1.0,350000,518.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,107.0,3.0,2.0,1.0,350000,287.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,104.0,3.0,3.0,2.0,859000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,107.0,3.0,2.0,1.0,310000,285.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Jardim Glória,76.0,2.0,1.0,1.0,599000,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Jardim Glória,80.0,2.0,1.0,2.0,599000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,150.0,3.0,3.0,3.0,880000,451.0,True,True,False,True,False,False,True,True,False,False
+Apartamento,Jardim Glória,69.0,2.0,2.0,1.0,280000,300.0,True,False,False,False,False,False,True,False,False,True
+Apartamento,Jardim Glória,76.0,2.0,2.0,1.0,619000,,False,False,False,False,False,True,False,True,False,False
+Apartamento,Jardim Glória,107.0,3.0,2.0,1.0,350000,287.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,99.0,2.0,2.0,2.0,813000,,True,False,True,True,False,True,False,False,False,False
+Apartamento,Jardim Glória,78.0,4.0,2.0,,279000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,72.0,2.0,2.0,1.0,270000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,71.0,2.0,1.0,1.0,240000,,True,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,80.0,2.0,2.0,2.0,599000,350.0,True,False,False,True,True,True,False,False,False,False
+Apartamento,Jardim Glória,100.0,4.0,2.0,,317000,270.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,97.0,2.0,1.0,,280000,70.0,True,True,False,False,False,False,False,True,False,False
+Apartamento,Jardim Glória,80.0,2.0,2.0,1.0,270000,200.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Jardim Glória,78.0,3.0,2.0,,265000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,75.0,2.0,2.0,1.0,260000,218.0,True,False,False,False,True,False,False,False,False,True
+Apartamento,Jardim Glória,98.0,2.0,2.0,9.0,369900,298.0,True,False,False,False,False,False,False,False,True,False
+Apartamento,Jardim Glória,150.0,3.0,3.0,2.0,859000,,False,False,False,False,True,False,False,True,False,False
+Apartamento,Jardim Glória,80.0,2.0,2.0,1.0,269900,290.0,True,True,False,False,True,False,False,False,False,True
+Apartamento,Jardim Glória,105.0,3.0,2.0,,320000,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,110.0,3.0,3.0,1.0,349900,280.0,True,True,False,False,False,False,False,False,False,True
+Apartamento,Jardim Glória,90.0,2.0,3.0,1.0,430000,280.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,79.0,2.0,1.0,1.0,599000,,False,False,False,False,False,False,False,True,False,False
+Apartamento,Jardim Glória,80.0,2.0,2.0,1.0,599000,,False,False,True,True,True,True,False,False,False,False
+Apartamento,Jardim Glória,75.0,2.0,2.0,1.0,260000,210.0,True,True,False,False,True,False,False,False,False,True
+Apartamento,Jardim Glória,70.0,2.0,1.0,1.0,320000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim Glória,70.0,2.0,2.0,1.0,489000,220.0,True,True,False,True,True,False,False,True,False,False
+Casa,Jardim Glória,350.0,5.0,6.0,4.0,1000000,,True,False,False,False,False,False,False,False,False,False
+Casa,Jardim Glória,228.0,3.0,4.0,1.0,500000,,False,False,True,False,False,False,False,False,False,False
+Casa,Jardim Glória,252.0,3.0,3.0,2.0,1500000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim Glória,67.0,,2.0,,750000,,False,False,False,False,False,True,False,False,False,True
+Casa,Jardim Glória,157.0,3.0,1.0,2.0,650000,,False,False,False,False,False,False,False,False,False,True
+Casa,Jardim Glória,236.0,7.0,5.0,3.0,990000,,False,False,False,False,True,False,False,False,False,False
+Casa,Jardim Glória,250.0,5.0,6.0,4.0,1100000,,False,False,True,False,False,True,False,False,False,True
+Casa,Jardim Glória,252.0,3.0,3.0,2.0,800000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim Glória,160.0,4.0,2.0,,749900,,True,True,False,False,False,True,False,False,False,False
+Casa,Jardim Glória,160.0,4.0,2.0,,749000,,True,True,False,False,False,True,False,False,False,True
+Casa,Jardim Glória,350.0,6.0,5.0,4.0,1100000,,True,False,True,False,True,True,False,False,False,False
+Casa,Jardim Glória,300.0,5.0,3.0,4.0,1100000,,False,False,True,False,False,True,False,False,False,False
+Casa,Jardim Glória,130.0,3.0,2.0,2.0,750000,,True,False,False,False,False,False,False,False,False,True
+Casa,Jardim Glória,160.0,7.0,5.0,4.0,1100000,,True,True,False,False,False,False,False,False,False,True
+Casa,Jardim Glória,459.0,4.0,2.0,,700000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim Glória,220.0,4.0,3.0,2.0,980000,,True,False,True,False,True,True,False,True,False,False
+Casa,Jardim Glória,450.0,5.0,2.0,4.0,2500000,300.0,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,70.0,2.0,1.0,2.0,230000,,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,384.0,4.0,5.0,4.0,2190000,568.0,False,False,True,False,True,True,True,False,False,False
+Casa,Salvaterra,450.0,4.0,6.0,4.0,2890000,390.0,True,False,False,False,True,True,True,True,False,False
+Casa,Salvaterra,350.0,4.0,6.0,4.0,2700000,490.0,False,False,False,False,False,True,True,True,False,False
+Casa,Salvaterra,290.0,2.0,5.0,3.0,1400000,,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,300.0,3.0,3.0,2.0,1990000,,True,False,False,False,False,False,True,False,False,False
+Casa,Salvaterra,371.0,3.0,5.0,4.0,1395000,340.0,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,350.0,4.0,4.0,10.0,2450000,250.0,True,False,False,False,True,True,False,True,False,True
+Casa,Salvaterra,580.0,4.0,6.0,7.0,2980000,,False,False,True,False,True,True,True,False,False,False
+Casa,Salvaterra,380.0,4.0,5.0,5.0,2640000,,False,False,False,False,False,False,True,False,False,False
+Casa,Salvaterra,450.0,4.0,5.0,3.0,998000,260.0,True,False,False,False,True,False,False,False,False,False
+Casa,Salvaterra,343.0,4.0,5.0,5.0,2650000,600.0,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,250.0,3.0,3.0,3.0,1899000,,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,265.0,4.0,4.0,2.0,1990000,477.0,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,312.0,4.0,5.0,2.0,1890000,380.0,True,True,False,False,True,True,False,True,False,False
+Casa,Salvaterra,1000.0,3.0,2.0,3.0,2500000,380.0,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,315.0,4.0,3.0,2.0,2100000,380.0,False,False,False,False,False,False,False,False,False,False
+Casa,Salvaterra,450.0,3.0,3.0,20.0,890000,,True,False,True,False,True,True,False,False,False,True
+Casa,Salvaterra,200.0,3.0,5.0,3.0,2500000,380.0,True,True,True,False,False,True,False,False,False,True
+Casa,Santa Efigênia,150.0,3.0,4.0,1.0,195000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santos Dumont,140.0,2.0,2.0,3.0,190000,,True,True,False,False,False,False,False,False,False,True
+Casa,Santa Efigênia,150.0,3.0,3.0,1.0,195000,,True,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,60.0,2.0,2.0,1.0,308000,,False,False,True,True,False,True,True,False,False,False
+Apartamento,Aeroporto,80.0,2.0,2.0,1.0,289000,,True,False,False,True,False,False,True,False,True,False
+Apartamento,Aeroporto,73.0,2.0,2.0,1.0,370000,180.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Aeroporto,60.0,2.0,2.0,2.0,270000,120.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Aeroporto,107.0,2.0,3.0,2.0,369990,,True,False,True,False,True,False,False,False,False,True
+Apartamento,Aeroporto,69.0,2.0,2.0,1.0,269000,,True,False,False,False,False,False,False,False,False,True
+Apartamento,Aeroporto,70.0,2.0,2.0,1.0,308000,250.0,True,True,True,True,False,True,False,False,False,False
+Apartamento,Aeroporto,48.0,2.0,2.0,1.0,308000,,False,False,True,True,False,True,False,True,False,False
+Apartamento,Aeroporto,44.0,2.0,1.0,1.0,179550,150.0,True,False,True,True,False,True,False,False,False,False
+Apartamento,Aeroporto,78.0,2.0,2.0,2.0,390000,,True,True,False,True,False,False,False,False,False,False
+Apartamento,Aeroporto,70.0,2.0,2.0,1.0,289900,180.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Aeroporto,80.0,2.0,2.0,1.0,289000,,True,False,False,False,False,False,True,False,True,False
+Apartamento,Aeroporto,78.0,2.0,1.0,2.0,420000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Aeroporto,45.0,1.0,1.0,1.0,249000,,False,False,True,False,False,False,False,False,False,False
+Apartamento,Aeroporto,45.0,2.0,1.0,1.0,155000,230.0,True,False,True,False,True,True,False,True,False,False
+Apartamento,Bom Clima,90.0,2.0,2.0,1.0,299900,242.0,True,False,False,False,True,False,False,True,False,True
+Apartamento,Bom Clima,85.0,2.0,2.0,1.0,299000,170.0,True,True,False,False,True,False,False,True,False,False
+Apartamento,Bonfim,67.0,2.0,1.0,1.0,185000,250.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Vale do Ipê,79.0,3.0,2.0,1.0,320000,250.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Morro da Glória,55.0,1.0,1.0,1.0,220000,200.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Granjas Betania,50.0,2.0,1.0,1.0,185000,279.0,True,False,False,False,False,False,True,False,False,False
+Apartamento,Nossa Senhora das Graças,55.0,2.0,2.0,1.0,269000,170.0,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,280.0,5.0,3.0,3.0,949620,1.0,True,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,180.0,3.0,2.0,3.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,161.0,3.0,2.0,2.0,890000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,160.0,3.0,4.0,3.0,799990,,False,False,True,False,True,True,False,False,False,True
+Casa,Bom Clima,248.0,4.0,3.0,4.0,1000000,,True,False,False,False,False,False,False,False,False,True
+Casa,Bom Clima,280.0,4.0,4.0,3.0,949990,,True,False,True,False,True,False,False,True,False,True
+Casa,Bom Clima,570.0,4.0,5.0,4.0,1450000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,360.0,5.0,4.0,6.0,1200000,,True,False,False,False,True,False,False,False,False,False
+Casa,Bom Clima,161.0,3.0,3.0,1.0,970000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,400.0,4.0,4.0,3.0,1700000,,False,True,True,False,False,False,False,False,False,True
+Casa,Bom Clima,570.0,4.0,2.0,4.0,1700000,,False,False,True,False,False,True,False,True,False,False
+Casa,Bom Clima,570.0,4.0,1.0,4.0,1450000,1.0,False,True,False,False,True,True,False,True,False,False
+Casa,Bom Clima,161.0,3.0,2.0,2.0,940000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,350.0,4.0,5.0,3.0,1200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,232.0,4.0,3.0,5.0,900000,,False,True,False,False,True,False,False,False,False,False
+Casa,Bom Clima,309.0,3.0,4.0,10.0,900000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,180.0,3.0,3.0,3.0,940000,,False,True,False,False,False,False,False,False,False,False
+Casa,Bom Clima,50.0,4.0,5.0,4.0,1450000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,350.0,3.0,2.0,6.0,850000,,True,False,False,False,True,True,False,True,False,False
+Casa,Bom Clima,580.0,5.0,6.0,4.0,3300000,,True,True,False,False,True,False,False,False,False,True
+Casa,Bom Clima,520.0,5.0,3.0,,3200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,570.0,4.0,4.0,4.0,1790000,,True,False,True,False,True,True,False,False,False,True
+Casa,Bom Clima,250.0,4.0,2.0,4.0,899000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,340.0,4.0,5.0,4.0,2200000,,True,False,False,False,True,False,False,False,False,False
+Casa,Bom Clima,550.0,3.0,4.0,4.0,2000000,,False,False,False,False,False,False,False,False,False,False
+Casa,Bom Clima,476.0,5.0,6.0,2.0,2990000,,False,False,True,False,False,False,False,True,False,True
+Casa,Bom Clima,580.0,5.0,6.0,4.0,3300000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,100.0,2.0,2.0,1.0,220000,,True,True,False,False,True,False,False,False,False,False
+Casa,Grama,100.0,2.0,2.0,2.0,219000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,169.0,3.0,2.0,,269000,,True,False,False,False,True,False,False,False,False,False
+Casa,Grama,110.0,2.0,2.0,1.0,229000,,True,True,False,False,True,False,False,False,False,True
+Casa,Grama,142.0,3.0,3.0,3.0,350000,,False,False,False,False,True,False,False,True,False,False
+Casa,Grama,64.0,2.0,2.0,2.0,219000,,True,True,False,False,False,False,False,False,False,False
+Casa,Grama,70.0,2.0,2.0,1.0,219000,,True,True,False,False,True,False,False,False,False,True
+Casa,Grama,70.0,2.0,2.0,2.0,219000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,180.0,3.0,4.0,3.0,890000,210.0,False,False,False,False,True,False,False,True,False,False
+Casa,Grama,144.0,3.0,1.0,2.0,225000,,True,False,False,False,False,False,False,False,False,False
+Casa,Grama,96.0,2.0,1.0,2.0,299000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,55.0,2.0,2.0,1.0,219000,,True,False,False,False,False,False,False,False,False,False
+Casa,Grama,313.0,4.0,4.0,4.0,1290000,240.0,True,True,False,False,True,False,True,False,False,True
+Casa,Grama,338.0,2.0,1.0,2.0,350000,1.0,True,False,False,False,False,False,False,False,False,False
+Casa,Grama,70.0,2.0,1.0,5.0,220000,,True,False,False,False,False,False,False,False,False,False
+Casa,Grama,300.0,3.0,5.0,3.0,224800,,True,False,True,False,True,True,False,False,False,True
+Casa,Grama,75.0,3.0,1.0,,261000,,True,True,True,False,False,False,False,False,False,False
+Casa,Grama,65.0,2.0,1.0,2.0,209000,,True,True,False,False,False,False,False,False,False,True
+Casa,Grama,80.0,2.0,2.0,1.0,249900,,True,True,False,False,True,False,False,False,False,True
+Casa,Grama,67.0,2.0,1.0,1.0,221000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,80.0,2.0,2.0,1.0,269000,,True,False,False,False,True,False,False,True,False,True
+Casa,Grama,55.0,2.0,1.0,5.0,220000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,70.0,2.0,2.0,1.0,210000,,True,True,False,False,True,False,False,False,False,True
+Casa,Grama,70.0,2.0,1.0,,75000,,True,True,False,False,False,False,False,False,False,False
+Casa,Grama,135.0,2.0,2.0,2.0,320000,,True,True,False,False,False,False,False,False,False,True
+Casa,Grama,265.0,3.0,3.0,4.0,899000,250.0,True,False,False,False,True,False,False,True,False,True
+Casa,Grama,95.0,3.0,1.0,,380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,239.0,3.0,3.0,2.0,899000,210.0,False,False,False,False,True,False,False,True,False,True
+Casa,Grama,100.0,3.0,1.0,,200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Grama,87.0,2.0,2.0,1.0,259000,,True,True,False,False,True,False,False,False,False,False
+Casa,Grama,1590.0,3.0,2.0,4.0,450000,,False,False,False,False,True,False,False,False,False,False
+Casa,Grama,90.0,2.0,2.0,2.0,375000,,True,True,True,False,True,False,False,False,False,True
+Casa,Grama,230.0,3.0,4.0,4.0,1240000,210.0,True,False,False,False,True,False,True,False,False,False
+Casa,Grama,135.0,2.0,1.0,2.0,365000,,False,True,False,False,False,False,False,False,False,False
+Casa,Grama,490.0,3.0,3.0,1.0,450000,,True,True,False,False,True,False,False,False,False,True
+Casa,Grama,90.0,1.0,1.0,,170000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,56.0,2.0,1.0,1.0,165000,255.0,False,False,True,True,False,True,False,False,False,True
+Apartamento,Grama,70.0,2.0,1.0,1.0,165000,140.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,75.0,2.0,1.0,1.0,190000,250.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Grama,57.0,2.0,1.0,1.0,165000,210.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Grama,10.0,2.0,1.0,1.0,98280,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,45.0,2.0,1.0,,157000,220.0,True,True,False,False,False,True,False,False,False,False
+Apartamento,Grama,75.0,2.0,1.0,1.0,185000,250.0,True,False,False,True,True,False,False,False,False,False
+Apartamento,Grama,42.0,2.0,2.0,1.0,180000,220.0,True,False,True,False,False,True,False,False,False,False
+Apartamento,Grama,110.0,2.0,2.0,1.0,295000,,False,False,False,True,False,False,False,False,False,False
+Apartamento,Grama,56.0,2.0,1.0,1.0,175000,232.0,True,True,True,True,False,True,False,False,False,False
+Apartamento,Grama,43.0,2.0,1.0,1.0,170000,220.0,False,False,False,False,False,False,True,False,True,False
+Apartamento,Grama,80.0,2.0,1.0,1.0,160000,130.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Grama,56.0,2.0,1.0,1.0,169000,232.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,73.0,2.0,1.0,1.0,194900,190.0,True,True,False,False,True,False,False,False,False,False
+Apartamento,Grama,41.0,2.0,1.0,1.0,140000,180.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,50.0,2.0,1.0,1.0,170000,220.0,False,True,True,True,False,False,False,False,False,False
+Apartamento,Grama,47.0,2.0,1.0,,160000,185.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Grama,59.0,2.0,1.0,1.0,150000,200.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,130.0,3.0,2.0,1.0,280000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,10.0,2.0,1.0,1.0,91234,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,59.0,2.0,1.0,1.0,140000,170.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,104.0,2.0,1.0,1.0,267730,302.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,45.0,2.0,1.0,,150000,,True,False,True,False,False,True,False,False,False,False
+Apartamento,Grama,71.0,2.0,1.0,1.0,195000,185.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,10.0,2.0,1.0,1.0,90131,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,60.0,2.0,1.0,1.0,170000,200.0,False,True,False,True,False,False,False,False,False,False
+Apartamento,Grama,55.0,2.0,1.0,1.0,189000,,False,False,False,False,True,False,False,False,False,False
+Apartamento,Grama,250.0,2.0,1.0,1.0,400000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Grama,133.0,2.0,2.0,,390000,390000.0,False,False,False,False,False,False,False,False,False,True
+Casa,Granville,533.0,4.0,6.0,6.0,3490000,500.0,False,False,True,False,False,True,True,True,False,True
+Casa,Granville,533.0,4.0,6.0,6.0,3490000,,True,False,True,False,False,True,True,True,False,False
+Casa,Granville,500.0,4.0,5.0,,3300000,,False,False,False,False,False,False,False,False,False,False
+Casa,Granville,500.0,4.0,4.0,3.0,3300000,400.0,True,False,True,False,False,True,True,True,False,False
+Casa,Granville,494.0,4.0,5.0,6.0,2800000,400.0,False,False,False,False,False,False,False,False,False,False
+Casa,Granville,390.0,4.0,6.0,5.0,1589000,,False,False,False,False,True,True,False,True,False,True
+Casa,Granville,500.0,4.0,2.0,12.0,2400000,682.0,False,False,False,False,False,False,False,False,False,False
+Casa,Granville,268.0,3.0,4.0,5.0,1880000,400.0,False,False,False,False,False,False,False,False,False,False
+Casa,Granville,500.0,4.0,6.0,3.0,3300000,400.0,True,False,True,False,False,True,True,True,False,False
+Casa,Granville,595.0,4.0,5.0,6.0,3490000,400.0,False,False,False,False,False,False,False,False,False,False
+Casa,Granville,850.0,6.0,4.0,14.0,2400000,682.0,False,False,False,False,False,False,False,False,False,False
+Casa,Granville,533.0,4.0,1.0,6.0,3490000,1.0,False,True,False,False,True,False,True,True,False,False
+Casa,Granville,400.0,4.0,4.0,3.0,3200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Granville,560.0,4.0,6.0,6.0,3490000,500.0,False,False,False,False,False,False,True,False,False,False
+Casa,Granville,533.0,4.0,6.0,6.0,3490000,400.0,False,False,False,False,False,False,True,False,False,False
+Casa,Granville,533.0,4.0,7.0,6.0,3490000,450.0,True,True,False,False,True,False,False,True,False,False
+Casa,Granville,560.0,4.0,6.0,6.0,3490000,,True,False,False,False,True,True,False,True,False,True
+Casa,Granville,563.0,4.0,6.0,6.0,3490000,500.0,False,False,False,False,False,False,True,False,False,False
+Casa,Granville,560.0,4.0,6.0,6.0,3490000,500.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,61.0,2.0,1.0,1.0,265000,300.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,67.0,2.0,1.0,1.0,370000,199.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,São Pedro,52.0,2.0,1.0,1.0,190000,230.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,52.0,2.0,1.0,1.0,165000,230.0,True,False,True,False,False,True,True,True,False,False
+Apartamento,São Pedro,46.0,1.0,1.0,1.0,260000,170.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,55.0,2.0,1.0,1.0,195000,,False,False,True,True,False,True,False,True,False,False
+Apartamento,São Pedro,51.0,2.0,1.0,1.0,225000,288.0,True,False,True,False,False,True,False,False,False,False
+Apartamento,São Pedro,68.0,2.0,1.0,1.0,345000,300.0,False,False,True,True,False,True,False,False,False,False
+Apartamento,São Pedro,48.0,1.0,1.0,1.0,254600,190.0,True,False,False,True,False,False,False,False,True,False
+Apartamento,São Pedro,52.0,2.0,1.0,1.0,176000,230.0,True,False,True,False,False,True,True,True,False,False
+Apartamento,São Pedro,82.0,2.0,2.0,1.0,205000,250.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,São Pedro,46.0,1.0,1.0,1.0,269900,194.0,False,True,False,True,True,False,False,True,False,False
+Apartamento,São Pedro,150.0,3.0,4.0,,590000,390.0,True,False,True,True,False,False,False,False,True,False
+Apartamento,São Pedro,48.0,2.0,1.0,1.0,219650,200.0,True,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,220.0,2.0,3.0,2.0,550000,,True,False,True,False,True,False,False,True,False,True
+Casa,São Pedro,188.0,2.0,4.0,2.0,795000,490.0,True,False,False,False,True,False,False,True,False,True
+Casa,São Pedro,100.0,3.0,4.0,1.0,409000,,False,False,False,False,False,False,False,False,False,True
+Casa,São Pedro,150.0,2.0,1.0,2.0,499000,,False,False,False,False,False,False,False,False,False,True
+Casa,São Pedro,90.0,2.0,2.0,2.0,360000,,True,True,False,False,True,False,False,False,False,True
+Casa,São Pedro,160.0,3.0,2.0,2.0,520000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Pedro,220.0,3.0,5.0,4.0,690000,,True,False,True,False,True,False,False,True,False,True
+Casa,São Pedro,162.0,3.0,3.0,2.0,550000,,False,False,False,False,False,False,False,True,False,True
+Casa,São Pedro,140.0,3.0,2.0,2.0,570000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,60.0,2.0,2.0,1.0,295000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,70.0,2.0,2.0,1.0,350000,350.0,True,False,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,76.0,2.0,2.0,1.0,320000,,True,False,False,False,True,False,False,False,False,True
+Apartamento,Jardim das Laranjeiras,79.0,2.0,1.0,1.0,380000,262.0,False,False,True,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,68.0,2.0,2.0,1.0,295000,250.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,111.0,3.0,3.0,1.0,350000,290.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,75.0,2.0,2.0,2.0,310000,240.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,65.0,2.0,2.0,1.0,295000,220.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,75.0,2.0,2.0,1.0,260000,220.0,True,True,False,True,True,False,False,False,False,True
+Apartamento,Jardim das Laranjeiras,72.0,2.0,2.0,1.0,259900,272.0,True,False,False,True,True,False,True,False,False,False
+Apartamento,Jardim das Laranjeiras,68.0,2.0,2.0,1.0,299000,250.0,True,False,False,True,True,False,False,True,False,False
+Apartamento,Jardim das Laranjeiras,127.0,3.0,3.0,2.0,650000,120.0,False,True,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,77.0,2.0,2.0,1.0,370000,240.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,95.0,3.0,2.0,1.0,480000,360.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,120.0,3.0,3.0,2.0,475000,403.0,True,False,True,True,True,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,78.0,2.0,2.0,1.0,274900,376.0,False,True,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,60.0,2.0,2.0,1.0,310000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,60.0,2.0,2.0,1.0,299000,175.0,True,True,False,True,False,False,True,False,False,False
+Apartamento,Jardim das Laranjeiras,87.0,2.0,2.0,1.0,285000,288.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,118.0,3.0,3.0,1.0,350000,290.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,85.0,3.0,2.0,,380000,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,120.0,3.0,3.0,2.0,475000,403.0,True,False,False,True,True,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,69.0,2.0,2.0,1.0,350000,250.0,True,True,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,72.0,2.0,2.0,1.0,259900,273.0,False,True,False,True,True,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,115.0,2.0,1.0,1.0,235000,308.0,False,False,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,81.0,3.0,2.0,2.0,450000,300.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,65.0,2.0,2.0,1.0,295000,,False,False,False,True,True,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,117.0,3.0,1.0,1.0,479000,469.0,True,False,False,False,False,False,False,True,False,True
+Apartamento,Jardim das Laranjeiras,60.0,2.0,2.0,1.0,295000,220.0,False,True,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,86.0,2.0,2.0,2.0,300000,240.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,110.0,3.0,2.0,2.0,660000,,True,True,False,True,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,93.0,2.0,2.0,2.0,520000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,75.0,2.0,2.0,1.0,290000,290.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,68.0,2.0,1.0,1.0,295000,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Jardim das Laranjeiras,57.0,2.0,2.0,1.0,355000,270.0,True,False,False,False,True,False,False,True,False,False
+Apartamento,Jardim das Laranjeiras,120.0,3.0,3.0,2.0,475000,403.0,False,False,True,True,True,False,False,False,False,False
+Casa,Jardim das Laranjeiras,200.0,3.0,3.0,2.0,1060000,,False,False,True,False,False,False,False,True,False,False
+Casa,Jardim das Laranjeiras,129.0,3.0,1.0,1.0,750000,,False,False,True,False,True,False,False,True,False,False
+Casa,Jardim das Laranjeiras,158.0,3.0,3.0,2.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,158.0,2.0,1.0,2.0,850000,,False,False,False,False,False,False,False,False,False,True
+Casa,Jardim das Laranjeiras,560.0,3.0,5.0,4.0,1200000,,False,False,True,False,False,True,False,True,False,True
+Casa,Jardim das Laranjeiras,200.0,3.0,2.0,1.0,1060000,,False,False,False,False,False,False,False,True,False,True
+Casa,Jardim das Laranjeiras,188.0,5.0,3.0,2.0,630000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,158.0,4.0,3.0,2.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,129.0,3.0,4.0,1.0,720000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,188.0,5.0,3.0,2.0,710000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,254.0,3.0,4.0,2.0,1200000,,False,False,True,False,False,True,False,True,False,False
+Casa,Jardim das Laranjeiras,158.0,4.0,2.0,2.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,250.0,5.0,4.0,2.0,630000,,True,True,False,False,True,False,False,True,False,False
+Casa,Jardim das Laranjeiras,340.0,5.0,3.0,4.0,2450000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,157.0,3.0,4.0,1.0,750000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,340.0,4.0,3.0,4.0,2450000,,False,False,True,False,False,False,False,True,False,True
+Casa,Jardim das Laranjeiras,157.0,4.0,3.0,2.0,850000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,129.0,3.0,4.0,1.0,750000,,False,False,True,False,False,False,False,True,False,True
+Casa,Jardim das Laranjeiras,254.0,3.0,6.0,4.0,1200000,,True,True,True,False,False,True,False,False,False,False
+Casa,Jardim das Laranjeiras,129.0,3.0,4.0,1.0,750000,,True,False,True,False,True,False,False,False,False,True
+Casa,Jardim das Laranjeiras,129.0,3.0,4.0,1.0,750000,,True,False,True,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,560.0,3.0,6.0,3.0,1200000,,False,False,False,False,False,True,False,False,False,True
+Casa,Jardim das Laranjeiras,312.0,3.0,2.0,1.0,1200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Jardim das Laranjeiras,157.0,4.0,4.0,2.0,850000,,True,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,63.0,2.0,1.0,,155000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,54.0,2.0,1.0,1.0,175000,,False,False,True,True,False,True,False,False,False,False
+Apartamento,Santa Terezinha,54.0,2.0,1.0,1.0,179000,170.0,True,False,True,True,False,True,False,False,False,False
+Apartamento,Santa Terezinha,60.0,2.0,1.0,1.0,140000,150.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,45.0,2.0,1.0,1.0,189900,243.0,False,False,False,True,True,True,False,True,False,False
+Apartamento,Santa Terezinha,42.0,2.0,1.0,1.0,210000,204.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Santa Terezinha,42.0,2.0,1.0,1.0,175000,200.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Santa Terezinha,124.0,3.0,3.0,1.0,398000,,True,False,False,False,True,False,False,True,False,False
+Apartamento,Santa Terezinha,44.0,2.0,1.0,1.0,177000,160.0,False,True,True,False,False,True,False,True,False,False
+Apartamento,Santa Terezinha,138.0,3.0,2.0,2.0,379000,218.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,50.0,2.0,1.0,1.0,135000,208.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,45.0,2.0,1.0,,255000,158.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,48.0,2.0,1.0,1.0,190000,,True,False,True,True,False,True,True,False,False,False
+Apartamento,Santa Terezinha,60.0,2.0,1.0,1.0,165000,310.0,False,False,True,True,False,True,False,False,False,False
+Apartamento,Santa Terezinha,68.0,2.0,1.0,1.0,250000,200.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,110.0,2.0,2.0,1.0,300000,210.0,False,False,False,False,False,False,True,False,True,False
+Apartamento,Santa Terezinha,60.0,2.0,1.0,1.0,230000,,False,False,True,True,False,True,False,False,False,False
+Apartamento,Santa Terezinha,40.0,2.0,1.0,1.0,175000,300.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Santa Terezinha,45.0,2.0,1.0,1.0,245000,,False,False,True,False,False,False,False,True,False,False
+Apartamento,Santa Terezinha,54.0,2.0,1.0,1.0,250000,160.0,False,False,True,True,False,True,True,False,False,False
+Apartamento,Santa Terezinha,60.0,2.0,1.0,1.0,215000,193.0,False,False,True,False,False,False,False,True,False,False
+Apartamento,Santa Terezinha,61.0,2.0,1.0,1.0,239000,220.0,False,False,True,True,False,True,True,False,False,True
+Apartamento,Santa Terezinha,98.0,3.0,2.0,1.0,456000,280.0,False,False,False,False,False,False,False,False,True,False
+Apartamento,Santa Terezinha,45.0,2.0,1.0,1.0,190000,200.0,True,False,True,False,False,True,True,False,False,False
+Apartamento,Santa Terezinha,65.0,2.0,1.0,1.0,199000,243.0,False,False,True,True,False,True,False,False,False,False
+Apartamento,Santa Terezinha,82.0,2.0,1.0,1.0,220000,210.0,True,False,True,True,False,True,False,False,False,False
+Apartamento,Santa Terezinha,91.0,3.0,2.0,1.0,380000,100.0,False,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,45.0,2.0,1.0,1.0,190000,270.0,False,False,True,True,False,True,False,True,False,False
+Apartamento,Santa Terezinha,50.0,2.0,1.0,1.0,230000,198.0,False,False,True,False,False,False,False,True,False,False
+Apartamento,Santa Terezinha,123.0,3.0,2.0,1.0,360000,250.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,10.0,2.0,1.0,1.0,197030,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,100.0,2.0,2.0,1.0,220000,190.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Santa Terezinha,50.0,2.0,1.0,1.0,250000,198.0,False,False,True,False,False,False,False,True,False,False
+Apartamento,Santa Terezinha,48.0,2.0,1.0,1.0,210000,192.0,True,False,True,False,False,True,True,False,False,False
+Apartamento,Santa Terezinha,44.0,2.0,1.0,,195000,240.0,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,255.0,4.0,4.0,3.0,390000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,81.0,2.0,1.0,2.0,210000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,70.0,2.0,1.0,,139000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,148.0,3.0,2.0,3.0,420000,20.0,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,255.0,4.0,4.0,3.0,390000,,False,False,False,False,False,False,False,False,False,True
+Casa,Santa Terezinha,85.0,2.0,1.0,1.0,230000,,True,False,True,False,False,False,False,True,False,False
+Casa,Santa Terezinha,70.0,2.0,2.0,,180000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,255.0,4.0,4.0,3.0,390000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,120.0,4.0,4.0,3.0,390000,,True,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,67.0,2.0,1.0,,140000,1.0,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,240.0,4.0,4.0,7.0,890000,,True,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,660.0,8.0,4.0,3.0,950000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,157.0,4.0,3.0,2.0,430000,,True,False,False,False,False,False,False,False,False,True
+Casa,Santa Terezinha,90.0,2.0,1.0,2.0,60000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,67.0,2.0,1.0,,160000,,False,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,517.0,4.0,1.0,5.0,900000,,False,False,True,False,True,False,False,True,False,True
+Casa,Santa Terezinha,212.0,3.0,3.0,,530000,,False,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,129.0,3.0,4.0,2.0,550000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,350.0,4.0,4.0,3.0,390000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,60.0,2.0,1.0,,140000,1.0,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,81.0,2.0,1.0,1.0,230000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,165.0,4.0,3.0,3.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,260.0,3.0,3.0,2.0,539000,,True,False,False,False,True,False,False,False,False,False
+Casa,Santa Terezinha,157.0,4.0,2.0,2.0,450000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,80.0,1.0,1.0,,40000,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,240.0,4.0,1.0,7.0,890000,,True,True,False,False,True,False,False,False,False,False
+Casa,Santa Terezinha,160.0,2.0,2.0,,279500,,True,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,350.0,4.0,4.0,3.0,390000,,True,True,False,False,True,False,False,False,False,True
+Casa,Santa Terezinha,81.0,2.0,1.0,1.0,280000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,67.0,2.0,1.0,,140000,,False,True,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,240.0,4.0,1.0,7.0,890000,,True,True,True,False,True,False,False,True,False,False
+Casa,Santa Terezinha,140.0,3.0,2.0,,399000,,True,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,244.0,7.0,5.0,3.0,750000,,False,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,131.0,5.0,2.0,1.0,500000,,True,False,False,False,False,False,False,False,False,False
+Casa,Santa Terezinha,150.0,3.0,1.0,1.0,380000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,88.0,3.0,1.0,1.0,290000,130.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,93.0,2.0,1.0,1.0,275000,45.0,True,False,False,False,False,False,True,False,True,False
+Apartamento,Benfica,68.0,2.0,1.0,,180000,138.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,45.0,2.0,1.0,1.0,189090,1.0,True,False,True,True,False,True,False,False,False,False
+Apartamento,Benfica,50.0,2.0,2.0,,175000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,39.0,2.0,1.0,,83774,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,360.0,3.0,3.0,,749000,,True,False,False,False,True,False,False,True,False,True
+Apartamento,Benfica,120.0,3.0,2.0,1.0,270000,230.0,False,False,True,False,False,False,False,False,False,False
+Apartamento,Benfica,70.0,2.0,1.0,1.0,209000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,54.0,2.0,1.0,,230000,150.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,85.0,2.0,1.0,1.0,170000,245.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,110.0,3.0,2.0,1.0,370000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,39.0,2.0,1.0,1.0,95000,220.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,73.0,2.0,1.0,1.0,260000,100.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,48.0,1.0,1.0,1.0,80000,215.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,124.0,3.0,2.0,,265000,,True,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,55.0,2.0,1.0,1.0,114100,200.0,True,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,45.0,2.0,1.0,,185000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,38.0,2.0,1.0,1.0,100000,222.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,38.0,2.0,1.0,1.0,100000,240.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,76.0,3.0,1.0,,250000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,71.0,2.0,1.0,1.0,150000,268.0,True,True,False,False,False,False,False,False,False,False
+Apartamento,Benfica,87.0,2.0,1.0,,270000,160.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,52.0,2.0,1.0,1.0,189900,,True,False,False,True,False,True,True,False,False,False
+Apartamento,Benfica,85.0,3.0,1.0,,250000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,60.0,1.0,1.0,,155000,1.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,44.0,2.0,1.0,,150000,,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,38.0,1.0,1.0,1.0,95000,222.0,False,False,False,False,False,False,False,False,False,False
+Apartamento,Benfica,93.0,2.0,1.0,1.0,365000,40.0,True,False,False,False,False,False,True,False,True,False
+Apartamento,Benfica,104.0,3.0,1.0,1.0,330000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,74.0,2.0,1.0,1.0,170000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,100.0,2.0,3.0,2.0,380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,112.0,2.0,3.0,2.0,380000,,True,True,False,False,False,False,False,False,False,True
+Casa,Benfica,100.0,2.0,3.0,2.0,380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,327.0,3.0,2.0,3.0,600000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,112.0,2.0,1.0,1.0,380000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,115.0,6.0,2.0,2.0,400000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,180.0,3.0,3.0,3.0,680000,,False,False,False,False,False,False,False,True,True,False
+Casa,Benfica,184.0,3.0,3.0,3.0,495000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,271.0,3.0,4.0,2.0,795000,,True,False,True,False,True,True,False,True,False,False
+Casa,Benfica,370.0,2.0,2.0,3.0,600000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,150.0,3.0,1.0,,200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,618.0,2.0,2.0,1.0,1200000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,200.0,3.0,2.0,,100000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,429.0,5.0,3.0,6.0,950000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,120.0,4.0,2.0,3.0,470000,,False,True,False,False,False,False,False,False,False,False
+Casa,Benfica,70.0,2.0,1.0,,50000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,150.0,4.0,2.0,2.0,600000,,True,True,True,False,False,False,False,False,False,True
+Casa,Benfica,80.0,4.0,2.0,4.0,300000,,False,True,False,False,True,False,False,False,False,True
+Casa,Benfica,95.0,2.0,1.0,1.0,235000,,False,False,False,False,False,False,False,False,False,False
+Casa,Benfica,228.0,4.0,4.0,2.0,750000,,True,True,True,False,True,False,False,True,False,True
+Casa,Benfica,288.0,3.0,2.0,2.0,1300000,,True,True,False,False,False,False,False,False,False,False
+Casa,São Judas Tadeu,110.0,2.0,1.0,,175000,,False,False,False,False,False,False,False,False,False,False
+Casa,Nova Benfica,110.0,3.0,1.0,2.0,280000,,False,False,False,False,False,False,False,False,False,False
+Casa,São Francisco de Paula,160.0,4.0,7.0,3.0,650000,,False,False,False,False,False,False,False,False,False,False
+Casa,Nova Era,300.0,3.0,2.0,3.0,350000,,False,False,False,False,False,False,False,False,False,False
+Casa,Recanto da Mata,120.0,2.0,2.0,1.0,339000,,False,False,False,False,False,False,False,False,False,False
+Casa,Nova Era,465.0,4.0,6.0,10.0,900000,,False,False,False,False,False,False,False,False,False,False
